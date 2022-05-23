@@ -1,0 +1,37 @@
+data_name: abcd
+
+path:
+    input_pattern_map:
+        train: '{nfs_dir}/data/abcd/data/train.json'
+        dev: '{nfs_dir}/data/abcd/data/dev.json'
+        test: '{nfs_dir}/data/abcd/data/test.json'
+    metadata_dir: '{nfs_dir}/data/abcd/metadata'
+    cache_dir: '{nfs_dir}/data/abcd/cache'
+    dataset_dir: '{nfs_dir}/data/abcd/dataset'
+    dapt_model_path: '{nfs_dir}/pretrained_models/abcd/bert-base-uncased-abcd-wwm'
+    embedding_dir: '{nfs_dir}/embeddings/abcd/bert-base-uncased-abcd-wwm'
+    assignment_dir: '{nfs_dir}/assignments/abcd/bert-base-uncased-abcd-wwm'
+    state_assignment_dir: '{nfs_dir}/state_assignments/abcd/bert-base-uncased-abcd-wwm'
+
+config:
+    splits: ['train', 'dev', 'test']
+    max_num_turns: 100
+    min_num_turns: 1
+    max_seq_length_per_turn: 64
+    party_to_index: {'customer': 0, 'agent': 1}
+    mask_whole_sentence: False
+    label_name: subflow_idx
+    num_labels: 96
+    collapse_state_sequence: False
+    embedding_name: 'bert_mean_pooler_output'
+
+finetune:
+    pop_keys: ['example_ids', 'num_turns']
+    keys_for_inference: ['labels']
+
+pretrain_bert:
+    max_seq_length: 128
+    num_turns_per_chunk: 15
+    slide: 10
+    pop_keys: ['example_ids']
+    keys_for_inference: ['labels']

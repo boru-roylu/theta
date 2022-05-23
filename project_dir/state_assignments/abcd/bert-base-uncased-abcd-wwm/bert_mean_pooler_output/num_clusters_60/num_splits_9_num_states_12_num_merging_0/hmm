@@ -1,0 +1,160 @@
+digraph G {
+	edge [arrowsize=1]
+	subgraph cluster_0 {
+		node [color="#D0F0FB" fontsize=14 shape=box style=filled]
+		edge [color=white]
+	style=filled
+	color=white
+		"ConversationalHMM-start"
+		"ConversationalHMM-end"
+		S00 [label="S00
+cluster = 95; prob = 0.253
+agent: Hi, how can I help you today?\l\lagent: Hi, how can I help you today?\l\lagent: Hi, how can I help you today?\l--------------------------------------------------------------------------------
+cluster = 23; prob = 0.219
+customer: Hi! I would like to check the status of my order\l\lcustomer: Hello, I want to check out the status of my subscription\l\lcustomer: Hi there, I want to check the status of my order.\l--------------------------------------------------------------------------------
+cluster = 81; prob = 0.167
+agent: Hello, thank you for contacting AcmeBrands.  How may I help you-\ltoday?\l\lagent: Hello, thank you for contacting AcmeBrands.  How may I help you-\ltoday?\l\lagent: hello! thank you for contacting AcmeBrands, how can i help you-\ltoday?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		S01 [label="S01
+cluster = 93; prob = 0.182
+agent: Is there anything else I can help you with today?\l\lagent: Is there anything else I can help you with today?\l\lagent: Is there anything else I can help you with today?\l--------------------------------------------------------------------------------
+cluster = 46; prob = 0.142
+customer: No that's all\l\lcustomer: No that's all\l\lcustomer: No that's all\l--------------------------------------------------------------------------------
+cluster = 29; prob = 0.124
+customer: That is all! Thanks for your help.\l\lcustomer: No that is all. Thanks for your help!\l\lcustomer: Ok, thank you for your help.\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		S02 [label="S02
+cluster = 82; prob = 0.621
+agent: Have a great day!\l\lagent: Have a great day!\l\lagent: Have a great day!\l--------------------------------------------------------------------------------
+cluster = 42; prob = 0.075
+customer: you too\l\lcustomer: you too\l\lcustomer: you too\l--------------------------------------------------------------------------------
+cluster = 46; prob = 0.055
+customer: No that's all\l\lcustomer: No that's all\l\lcustomer: No that's all\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"T00 <- S01" [label="T00 <- S01
+cluster = 97; prob = 0.197
+agent: Then I'm sorry, our servers indicate this was not an error and-\lI cannot do anything to fix it.\l\lagent: i was able to verify your purchase, I am sorry I will have to-\lget my team to check on this order foryou. I am very sorry for the-\ldelay.\l\lagent: So, I'm very sorry that this refund has taken so long.  It-\lappears that there was a problem in our systems, so I am going to re--\lissue it to you now\l--------------------------------------------------------------------------------
+cluster = 8; prob = 0.069
+customer: Oh darn I have to wait a year! That's ok. I'll make sure I'm-\lready next January. That'll be it for now. Thanks for your help!\l\lcustomer: thanks. I still think I'll cancel my premium subscription-\lthis company is awful\l\lcustomer: The jeans are already out for delivery so I hope we can fix-\lthis, I pay for a gold membership after all.\l--------------------------------------------------------------------------------
+cluster = 62; prob = 0.069
+agent: Tailoring is no charge for our Bronze, Silver, and Gold members-\land guests who have bought 3 or more pairs. If none of those apply,-\lit's $15. The jeans usually run a little long so it often helps to-\lhave them tailored.\l\lagent: They are generally on the wider side. We go by the U.S. system,-\lbut add an extra 1/6\" of width. However, please note that if there is-\la fit issue, you are welcome to return them for free, and you will-\lhave 30 days from your purchase to do so.\l\lagent: Most of our boots are waterproof, but was we have a wide range-\lof boots for sale the best way to confirm is to check the guarantee-\lthat i attached when you purchase the boots.\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"T01 <- T00 <- S01" [label="T01 <- T00 <- S01
+cluster = 9; prob = 0.126
+customer: Absolutely. Account ID: LQMM3PSB0E and Order ID: 5411650958\l\lcustomer: Account ID: 3ZWLQUDRSB, Order ID: 0675715681\l\lcustomer: Order ID: 6638274982\l--------------------------------------------------------------------------------
+cluster = 27; prob = 0.082
+customer: Hi, I want to check on an order. I bought a pair of boots-\lfor 74$ but my email confirmation gave me a higher price\l\lcustomer: Hello I recently ordered Jeans from Guess for 59 dollars-\lbecause I got an email saying a different item will be delivered. My-\lorder number is 0425200784\l\lcustomer: Hi! I would like to return my previous order because it was-\lthe wrong size\l--------------------------------------------------------------------------------
+cluster = 26; prob = 0.074
+customer: Email Address: jwu95262@email.com\l\lcustomer: Email Address: jb203669@email.com\l\lcustomer: Email Address: asanders094@email.com\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V00 <- T00 <- S01" [label="V00 <- T00 <- S01
+cluster = 118; prob = 0.200
+agent: I will be happy to help you with this.  First, can you try-\llogging out and logging in back to your account and try the purchase-\lagain?\l\lagent: Thanks, Norman. Could you try logging out of your account and-\lback in the see if the search works?\l\lagent: Can you try logging out and logging back into our site?\l--------------------------------------------------------------------------------
+cluster = 53; prob = 0.134
+customer: I already tried that and it didn't work.\l\lcustomer: I tried that, It did not work either.\l\lcustomer: Okay, I did that and it still isn't working\l--------------------------------------------------------------------------------
+cluster = 12; prob = 0.096
+customer: Hi I'm trying to buy a shirt but there seems to be a problem-\lwith your website. My cart isn't updating even though I click on the-\l\"Add to cart\" button.\l\lcustomer: yes i'm trying to buy something from your site but my cart-\lisn't updating when i try to put it in there\l\lcustomer: Yes I'm having trouble with your online order system.  I'm-\ltrying to put a jacket I've been wanting into my cart.    The cart is-\lnot getting updated.\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V01 <- T01 <- T00 <- S01" [label="V01 <- T01 <- T00 <- S01
+cluster = 62; prob = 0.226
+agent: Tailoring is no charge for our Bronze, Silver, and Gold members-\land guests who have bought 3 or more pairs. If none of those apply,-\lit's $15. The jeans usually run a little long so it often helps to-\lhave them tailored.\l\lagent: They are generally on the wider side. We go by the U.S. system,-\lbut add an extra 1/6\" of width. However, please note that if there is-\la fit issue, you are welcome to return them for free, and you will-\lhave 30 days from your purchase to do so.\l\lagent: Most of our boots are waterproof, but was we have a wide range-\lof boots for sale the best way to confirm is to check the guarantee-\lthat i attached when you purchase the boots.\l--------------------------------------------------------------------------------
+cluster = 7; prob = 0.080
+customer: Is it possible to stop my order from shipping?  Thanks.\l\lcustomer: can you check the status?\l\lcustomer: Can you tell me if I still have the subscription?\l--------------------------------------------------------------------------------
+cluster = 6; prob = 0.076
+customer: I am trying to look at my order history but I can't log into-\lmy account because I forgot my password\l\lcustomer: I need to get into my account to check an order but I can't-\lsince I forgot my password\l\lcustomer: yes i'm trying to view my shopping history online but can't-\laccess my account because i lost my phone with two factor-\lauthentication\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V02 <- T00 <- S01" [label="V02 <- T00 <- S01
+cluster = 77; prob = 0.177
+agent: I can look up your Username. Do you have your email address?\l\lagent: Okay, I will need a few pieces of info to verify your identity-\lbefore we retrieve your username. Can I have your zip code and email-\laddress?\l\lagent: I will actually need your phone number to look up your-\lusername. As well as your email address.\l--------------------------------------------------------------------------------
+cluster = 90; prob = 0.122
+agent: Thank you! Alright Alessandro. Here is your randomly generated-\lpassword: 8v17ttftka4. You can sign in with that and then the site-\lwill prompt you to create a new one.\l\lagent: Very good.  Here is your new password: aimb3hiew3c   You can of-\lcourse change it once you access your account.\l\lagent: Thank you, sir. Your new password is 79zbr3z13fb . Be sure to-\lmake a new one that's more memorable when you log on. Is there-\lanything else I can do for you?\l--------------------------------------------------------------------------------
+cluster = 59; prob = 0.105
+customer: And address is 9871 2nd Ave  Baltimore, WA 87093\l\lcustomer: Address: 5179 Circle Drive  Brighton, WA 67982\l\lcustomer: 3184 Woodshore St  Baltimore, WA 81926\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V03 <- T00 <- S01" [label="V03 <- T00 <- S01
+cluster = 98; prob = 0.114
+agent: Okay, I've notified them. Would you like to place the item on-\lback order?\l\lagent: Just let me know your preferred method of return and I will-\lhave that return label sent to your email\l\lagent: We can cancel the order and give you a full refund. Would you-\llike to do that?\l--------------------------------------------------------------------------------
+cluster = 71; prob = 0.084
+agent: OK, I have updated your account. You should receive a refund-\lvery soon.\l\lagent: Thank you, I have your order pulled up in the system. Let me-\lcheck that fee for you.\l\lagent: Perfect, I have located your account with us.\l--------------------------------------------------------------------------------
+cluster = 103; prob = 0.083
+agent: Thanks and what is the shipping status of your order?\l\lagent: Thanks and what is the shipping status of your order?\l\lagent: Thanks you and what is the shipping status of your order?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V04 <- T00 <- S01" [label="V04 <- T00 <- S01
+cluster = 117; prob = 0.158
+agent: Right now, you are not currently on a subscription.  And the-\lamount due it $55.  You have to pay it by tomorrow.\l\lagent: It looks like you have an active subscription, but the amount-\lof $55 is due in three days to keep it active.\l\lagent: It looks like your subscription is ending today, and you will-\lneed to pay $14 to keep it active.\l--------------------------------------------------------------------------------
+cluster = 7; prob = 0.080
+customer: Is it possible to stop my order from shipping?  Thanks.\l\lcustomer: can you check the status?\l\lcustomer: Can you tell me if I still have the subscription?\l--------------------------------------------------------------------------------
+cluster = 90; prob = 0.072
+agent: Thank you! Alright Alessandro. Here is your randomly generated-\lpassword: 8v17ttftka4. You can sign in with that and then the site-\lwill prompt you to create a new one.\l\lagent: Very good.  Here is your new password: aimb3hiew3c   You can of-\lcourse change it once you access your account.\l\lagent: Thank you, sir. Your new password is 79zbr3z13fb . Be sure to-\lmake a new one that's more memorable when you log on. Is there-\lanything else I can do for you?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V05 <- V04 <- T00 <- S01" [label="V05 <- V04 <- T00 <- S01
+cluster = 96; prob = 0.160
+agent: Hello are you there?\l\lagent: Hello, are you there?\l\lagent: Hello, are you there?\l--------------------------------------------------------------------------------
+cluster = 97; prob = 0.066
+agent: Then I'm sorry, our servers indicate this was not an error and-\lI cannot do anything to fix it.\l\lagent: i was able to verify your purchase, I am sorry I will have to-\lget my team to check on this order foryou. I am very sorry for the-\ldelay.\l\lagent: So, I'm very sorry that this refund has taken so long.  It-\lappears that there was a problem in our systems, so I am going to re--\lissue it to you now\l--------------------------------------------------------------------------------
+cluster = 63; prob = 0.039
+agent: You want to know when you placed an order, or when you will-\lreceive it?\l\lagent: So what question do you have about your order?\l\lagent: Do you have a specific question I can check the system for?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V06 <- V05 <- V04 <- T00 <- S01" [label="V06 <- V05 <- V04 <- T00 <- S01
+cluster = 63; prob = 0.012
+agent: You want to know when you placed an order, or when you will-\lreceive it?\l\lagent: So what question do you have about your order?\l\lagent: Do you have a specific question I can check the system for?\l--------------------------------------------------------------------------------
+cluster = 85; prob = 0.010
+agent: What is your membership level?\l\lagent: What is your membership level?\l\lagent: What is your membership level?\l--------------------------------------------------------------------------------
+cluster = 97; prob = 0.010
+agent: Then I'm sorry, our servers indicate this was not an error and-\lI cannot do anything to fix it.\l\lagent: i was able to verify your purchase, I am sorry I will have to-\lget my team to check on this order foryou. I am very sorry for the-\ldelay.\l\lagent: So, I'm very sorry that this refund has taken so long.  It-\lappears that there was a problem in our systems, so I am going to re--\lissue it to you now\l--------------------------------------------------------------------------------
+" color="#d3d3d3"]
+		S00 -> S00 [label=0.423 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S00 -> "ConversationalHMM-end" [label="9.276172e-134" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		S00 -> "T01 <- T00 <- S01" [label=0.336 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S00 -> "V01 <- T01 <- T00 <- S01" [label=0.181 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S00 -> "V00 <- T00 <- S01" [label=0.060 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S01 -> S01 [label=0.622 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S01 -> "ConversationalHMM-end" [label=0.002 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		S01 -> S02 [label=0.376 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S02 -> S02 [label=0.220 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S02 -> "ConversationalHMM-end" [label=0.780 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"T00 <- S01" -> "T00 <- S01" [label=0.838 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T00 <- S01" -> "ConversationalHMM-end" [label=0.002 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"T00 <- S01" -> S01 [label=0.160 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "T01 <- T00 <- S01" [label=0.874 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "ConversationalHMM-end" [label="9.731703e-05" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"T01 <- T00 <- S01" -> "T00 <- S01" [label=0.057 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "V03 <- T00 <- S01" [label=0.051 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "V04 <- T00 <- S01" [label=0.017 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "V05 <- V04 <- T00 <- S01" [label=0.001 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "V06 <- V05 <- V04 <- T00 <- S01" [label="3.797171e-05" color="#808080" fontcolor="#808080" len=3.00]
+		"V00 <- T00 <- S01" -> "V00 <- T00 <- S01" [label=0.915 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V00 <- T00 <- S01" -> "ConversationalHMM-end" [label="5.304391e-04" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"V00 <- T00 <- S01" -> S01 [label=0.084 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T01 <- T00 <- S01" -> "V01 <- T01 <- T00 <- S01" [label=0.802 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T01 <- T00 <- S01" -> "ConversationalHMM-end" [label="2.103223e-05" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"V01 <- T01 <- T00 <- S01" -> S01 [label=0.099 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T01 <- T00 <- S01" -> "V02 <- T00 <- S01" [label=0.084 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T01 <- T00 <- S01" -> "T00 <- S01" [label=0.014 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T01 <- T00 <- S01" -> "V04 <- T00 <- S01" [label="9.712139e-04" color="#808080" fontcolor="#808080" len=3.00]
+		"V02 <- T00 <- S01" -> "V02 <- T00 <- S01" [label=0.891 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V02 <- T00 <- S01" -> "ConversationalHMM-end" [label="7.775735e-04" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"V02 <- T00 <- S01" -> S01 [label=0.108 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V03 <- T00 <- S01" -> "V03 <- T00 <- S01" [label=0.867 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V03 <- T00 <- S01" -> "ConversationalHMM-end" [label="2.493070e-04" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"V03 <- T00 <- S01" -> S01 [label=0.133 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V04 <- T00 <- S01" -> "V04 <- T00 <- S01" [label=0.851 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V04 <- T00 <- S01" -> "ConversationalHMM-end" [label=0.002 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"V04 <- T00 <- S01" -> S01 [label=0.147 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V05 <- V04 <- T00 <- S01" -> "V05 <- V04 <- T00 <- S01" [label=0.691 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V05 <- V04 <- T00 <- S01" -> "ConversationalHMM-end" [label=0.293 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"V05 <- V04 <- T00 <- S01" -> S01 [label=0.016 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V06 <- V05 <- V04 <- T00 <- S01" -> "V06 <- V05 <- V04 <- T00 <- S01" [label=0.465 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V06 <- V05 <- V04 <- T00 <- S01" -> "ConversationalHMM-end" [label=0.506 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"V06 <- V05 <- V04 <- T00 <- S01" -> S01 [label=0.028 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"ConversationalHMM-start" -> S00 [label=1.000 color="#005FFE" fontcolor="#005FFE" len=3.00]
+	}
+rankdir=LR
+
+size="16,10"
+
+labelloc="t"
+
+label="/workspace/theta/project_dir/state_assignments/abcd/bert-base-uncased-abcd-wwm/bert_mean_pooler_output/num_clusters_60/num_splits_9_num_states_12_num_merging_0"
+
+}

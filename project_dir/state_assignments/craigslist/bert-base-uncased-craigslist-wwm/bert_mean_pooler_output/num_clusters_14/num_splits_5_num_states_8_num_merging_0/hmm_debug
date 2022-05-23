@@ -1,0 +1,107 @@
+digraph G {
+	edge [arrowsize=1]
+	subgraph cluster_0 {
+		node [color="#D0F0FB" fontsize=14 shape=box style=filled]
+		edge [color=white]
+	style=filled	color=white		"ConversationalHMM-start"
+		"ConversationalHMM-end"
+		S00 [label="S00
+cluster = 9; prob = 0.315
+buyer: hello i m interested in the media cabinet you have for sale .-\lhow old is it ?\l\lbuyer: hi i m interested in buying this bike . can you tell me what-\lthe upgrades are ?\l\lbuyer: hello i m interested in buying the truck . i have a couple-\lquestions . i m good thank you and you ?\l--------------------------------------------------------------------------------
+cluster = 23; prob = 0.235
+seller: i am great thanks ! are you interested in my bike for sale ?\l\lseller: hello . are you interested in my bike ?\l\lseller: hi . are you interested in my home for rent ?\l--------------------------------------------------------------------------------
+cluster = 19; prob = 0.124
+seller: hello\l\lseller: hello\l\lseller: hello\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		S01 [label="S01
+cluster = 1; prob = 0.404
+buyer: <offer>\l\lbuyer: <offer>\l\lbuyer: <offer>\l--------------------------------------------------------------------------------
+cluster = 15; prob = 0.315
+seller: <offer>\l\lseller: <offer>\l\lseller: <offer>\l--------------------------------------------------------------------------------
+cluster = 10; prob = 0.066
+buyer: that works thank you !\l\lbuyer: okay deal thank you !\l\lbuyer: okay sounds good ! thank you .\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		S02 [label="S02
+cluster = 14; prob = 0.490
+seller: <accept>\l\lseller: <accept>\l\lseller: <accept>\l--------------------------------------------------------------------------------
+cluster = 0; prob = 0.377
+buyer: <accept>\l\lbuyer: <accept>\l\lbuyer: <accept>\l--------------------------------------------------------------------------------
+cluster = 16; prob = 0.035
+seller: <quit>\l\lseller: <quit>\l\lseller: <quit>\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"T00 <- S01" [label="T00 <- S01
+cluster = 10; prob = 0.253
+buyer: that works thank you !\l\lbuyer: okay deal thank you !\l\lbuyer: okay sounds good ! thank you .\l--------------------------------------------------------------------------------
+cluster = 24; prob = 0.177
+seller: yep that price works for me !\l\lseller: sounds good thank you .\l\lseller: okay sounds good ! thank you !\l--------------------------------------------------------------------------------
+cluster = 5; prob = 0.089
+buyer: hello\l\lbuyer: hello\l\lbuyer: hello\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"T01 <- T00 <- S01" [label="T01 <- T00 <- S01
+cluster = 22; prob = 0.294
+seller: i actually almost resended the offer when you stated it was-\lgoing to be for a yr old . its a beautiful antique ! i can t budge on-\lthe price . it s hard enough to let go of as is . . .\l\lseller: its a couple years old lightly used excellent condition . its-\la very comfortable ride and super smooth . perfect for the summer .-\lthe brakes are also just replaced and brand new . i m looking for-\labout <price>_1.0 for it .\l\lseller: hey so i have a great bike for sale it doesn t have much miles-\land is in great condition . any more you d like to know ?\l--------------------------------------------------------------------------------
+cluster = 12; prob = 0.185
+buyer: hmm that sounds good but is it new ?\l\lbuyer: yes i am whats your bottom dollar on it ?\l\lbuyer: ok it does look like a great deal ! how old is the bike ?\l--------------------------------------------------------------------------------
+cluster = 8; prob = 0.108
+buyer: i like that it is not very old but at the same time there is no-\lway to know how well it was maintained over that time or what kind of-\ltrails you took it on . for a used bike i m afraid that is a bit out-\lof my price range . would you be willing to come down on the price at-\lall if i were to come pick it up right away and pay cash ?\l\lbuyer: i won t argue that it is a decent price . just wondering is-\lthere anything wrong with it ? seems like a lot to spend on a bike-\lthat only has miles of usage . . .\l\lbuyer: hi i m allergic to pollen so the outside without my car or-\lother protective gears is not an option for me . i was hoping that you-\lcould tell me about the apartment inside is it clean and also i cannot-\lpay total are you able to go down and or guarantee the air is nice ?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"T02 <- T00 <- S01" [label="T02 <- T00 <- S01
+cluster = 7; prob = 0.186
+buyer: thats good to hear . i really like the bike and i almost have-\lenough for your asking price . is <price>_0.2 okay ? i can come get it-\lin <price>_0.2 minutes\l\lbuyer: thats great . can i have it for <price>_-2.0 ?\l\lbuyer: great . are you flexible on price ? i d like to offer-\l<price>_-0.2 .\l--------------------------------------------------------------------------------
+cluster = 27; prob = 0.161
+seller: <price>_0.7 . <price>_0.7 is much too low for a high quality-\lbike like this it s usually for triathalons and is much more expensive-\lnew . i m only getting rid of it because i have to move . i could do-\l1k but i m confident i can get a better offer for anything lower than-\lthat .\l\lseller: let me offer you something more too cause i see you like the-\lstudio . how about <price>_0.3 and no deposit ? that s really as steal-\l! !\l\lseller: i can go to <price>_0.3 if you can come today but that is the-\labsolute lowest . like i said it has all the upkeep it needs for a-\llong time and new tires .\l--------------------------------------------------------------------------------
+cluster = 13; prob = 0.151
+buyer: ok actually <price>_0.7 is well over my budget but i like the-\lbike i can do <price>_0.7 but pay you in 3 monthyl installments does-\lit work ?\l\lbuyer: would you take <price>_0.2 and my current phone ? you could-\lsell it and make a profit close to what you re asking for . i m also-\lwilling to come pick it up still .\l\lbuyer: that is great news . i m trying to stay within budget this-\lapartment looks like a good fit . are you willing to take a little-\lless a month and possibly accept <price>_-0.4 ?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V00 <- T00 <- S01" [label="V00 <- T00 <- S01
+cluster = 10; prob = 0.354
+buyer: that works thank you !\l\lbuyer: okay deal thank you !\l\lbuyer: okay sounds good ! thank you .\l--------------------------------------------------------------------------------
+cluster = 24; prob = 0.189
+seller: yep that price works for me !\l\lseller: sounds good thank you .\l\lseller: okay sounds good ! thank you !\l--------------------------------------------------------------------------------
+cluster = 25; prob = 0.096
+seller: ok let me know if you change your mind . i would love to help-\lyou out but i can t go for half of what i m asking .\l\lseller: it s almost like new so i m not willing to give it away for-\lmuch less than the listed price but i am curious if you have an offer-\lthat would fit in your budget .\l\lseller: i m willing to negotiate somewhat with that . the price i-\llisted does not include utilities though . is there something you had-\lin mind ?\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		"V01 <- T00 <- S01" [label="V01 <- T00 <- S01
+cluster = 24; prob = 0.212
+seller: yep that price works for me !\l\lseller: sounds good thank you .\l\lseller: okay sounds good ! thank you !\l--------------------------------------------------------------------------------
+cluster = 5; prob = 0.153
+buyer: hello\l\lbuyer: hello\l\lbuyer: hello\l--------------------------------------------------------------------------------
+cluster = 4; prob = 0.112
+buyer: how about <price>_0.4\l\lbuyer: how about <price>_0.4\l\lbuyer: how about <price>_0.4\l--------------------------------------------------------------------------------
+" color="#D0F0FB"]
+		S00 -> S00 [label=0.351 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S00 -> "ConversationalHMM-end" [label="4.494618e-32" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		S00 -> "T01 <- T00 <- S01" [label=0.648 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S00 -> S02 [label="7.964695e-04" color="#808080" fontcolor="#808080" len=3.00]
+		S01 -> S01 [label=0.219 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S01 -> "ConversationalHMM-end" [label=0.003 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		S01 -> S02 [label=0.777 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S02 -> S02 [label=0.008 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		S02 -> "ConversationalHMM-end" [label=0.992 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"T00 <- S01" -> "T00 <- S01" [label=0.277 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T00 <- S01" -> "ConversationalHMM-end" [label="1.137644e-04" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"T00 <- S01" -> S01 [label=0.723 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "T01 <- T00 <- S01" [label=0.664 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> "ConversationalHMM-end" [label=0.007 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"T01 <- T00 <- S01" -> "T02 <- T00 <- S01" [label=0.308 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> S01 [label=0.012 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T01 <- T00 <- S01" -> S02 [label=0.009 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T02 <- T00 <- S01" -> "T02 <- T00 <- S01" [label=0.625 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T02 <- T00 <- S01" -> "ConversationalHMM-end" [label=0.013 color="#005FFE" fontcolor="#005FFE" len=3.00 style=dashed]
+		"T02 <- T00 <- S01" -> "V00 <- T00 <- S01" [label=0.150 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T02 <- T00 <- S01" -> S01 [label=0.077 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T02 <- T00 <- S01" -> "T00 <- S01" [label=0.084 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"T02 <- T00 <- S01" -> "V01 <- T00 <- S01" [label=0.052 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V00 <- T00 <- S01" -> "V00 <- T00 <- S01" [label=0.179 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V00 <- T00 <- S01" -> "ConversationalHMM-end" [label="7.519016e-06" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"V00 <- T00 <- S01" -> S01 [label=0.821 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T00 <- S01" -> "V01 <- T00 <- S01" [label=0.238 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"V01 <- T00 <- S01" -> "ConversationalHMM-end" [label="2.350429e-04" color="#808080" fontcolor="#808080" len=3.00 style=dashed]
+		"V01 <- T00 <- S01" -> S01 [label=0.762 color="#005FFE" fontcolor="#005FFE" len=3.00]
+		"ConversationalHMM-start" -> S00 [label=1.000 color="#005FFE" fontcolor="#005FFE" len=3.00]
+	}
+rankdir=LR
+size="16,10"
+labelloc="t"
+label="/gscratch/tial/roylu/projects/theta/state_assignments/craigslist/bert-base-uncased-craigslist-wwm/bert_mean_pooler_output/num_clusters_14/num_splits_5_num_states_8_num_merging_0"
+}

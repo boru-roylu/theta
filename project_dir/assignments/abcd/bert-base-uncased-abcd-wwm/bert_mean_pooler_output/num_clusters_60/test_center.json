@@ -1,0 +1,6092 @@
+{
+    "0": [
+        {
+            "party": "customer",
+            "turn": "I am a guest so I don't have that info"
+        },
+        {
+            "party": "customer",
+            "turn": "I don't have anything showing that I paid already"
+        },
+        {
+            "party": "customer",
+            "turn": "I think I am a guest"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry I don't have my account id"
+        },
+        {
+            "party": "customer",
+            "turn": "I don't have an order id"
+        },
+        {
+            "party": "customer",
+            "turn": "I don't know it."
+        },
+        {
+            "party": "customer",
+            "turn": "I don't know it."
+        },
+        {
+            "party": "customer",
+            "turn": "I don't know my account ID"
+        },
+        {
+            "party": "customer",
+            "turn": "No, I am not a premium member yet"
+        },
+        {
+            "party": "customer",
+            "turn": "i don't have an account ID"
+        },
+        {
+            "party": "customer",
+            "turn": "I don't have my account ID on me though"
+        },
+        {
+            "party": "customer",
+            "turn": "I have a guest membership"
+        },
+        {
+            "party": "customer",
+            "turn": "I actually don't know the email address associated with my account. Can I give you my PIN?"
+        },
+        {
+            "party": "customer",
+            "turn": "no I don't have my account id"
+        },
+        {
+            "party": "customer",
+            "turn": "I don't have an account ID. Is an Order ID ok?"
+        },
+        {
+            "party": "customer",
+            "turn": "it is? I don't see it though"
+        },
+        {
+            "party": "customer",
+            "turn": "No.  I don't have the account ID and I haven't placed the order yet"
+        },
+        {
+            "party": "customer",
+            "turn": "I do not have it"
+        },
+        {
+            "party": "customer",
+            "turn": "I do not have it"
+        },
+        {
+            "party": "customer",
+            "turn": "No, the website doesn't say"
+        }
+    ],
+    "1": [
+        {
+            "party": "customer",
+            "turn": "u2"
+        },
+        {
+            "party": "customer",
+            "turn": "u2"
+        },
+        {
+            "party": "customer",
+            "turn": "u2"
+        },
+        {
+            "party": "customer",
+            "turn": "U2"
+        },
+        {
+            "party": "customer",
+            "turn": "u2"
+        },
+        {
+            "party": "customer",
+            "turn": "adding"
+        },
+        {
+            "party": "customer",
+            "turn": "also"
+        },
+        {
+            "party": "customer",
+            "turn": "Need"
+        },
+        {
+            "party": "customer",
+            "turn": "Seven"
+        },
+        {
+            "party": "customer",
+            "turn": "seven"
+        },
+        {
+            "party": "customer",
+            "turn": "money"
+        },
+        {
+            "party": "customer",
+            "turn": "It"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "sorry"
+        },
+        {
+            "party": "customer",
+            "turn": "day"
+        }
+    ],
+    "2": [
+        {
+            "party": "customer",
+            "turn": "Part of the process, you should recommend that to be relooked at, since theyh do not add value to the customer"
+        },
+        {
+            "party": "customer",
+            "turn": "The expedited shipping and special discounts are nice"
+        },
+        {
+            "party": "customer",
+            "turn": "I'll go with the standard if the international shipping is free or discounted and expedited."
+        },
+        {
+            "party": "customer",
+            "turn": "I understand knowing about the different levels of membership and what they entail"
+        },
+        {
+            "party": "customer",
+            "turn": "I have signed up for a premium subscription shopping service, which offers benefits such as expedited shipping and special discounts."
+        },
+        {
+            "party": "customer",
+            "turn": "20% of $94 is less than $20.   Your competition has the same shirt for $30 less."
+        },
+        {
+            "party": "customer",
+            "turn": " Colors do not fade easily?, I like the color of this shirt"
+        },
+        {
+            "party": "customer",
+            "turn": "for the current orders as well as future"
+        },
+        {
+            "party": "customer",
+            "turn": "Does it come in other sizes, such as XXS or XXL?"
+        },
+        {
+            "party": "customer",
+            "turn": "Does it come in other sizes, such as XXS or XXL?"
+        },
+        {
+            "party": "customer",
+            "turn": "It should be $40 annually."
+        },
+        {
+            "party": "customer",
+            "turn": "None of this is particularly helpful"
+        },
+        {
+            "party": "customer",
+            "turn": "black, hip length, zips up front"
+        }
+    ],
+    "5": [
+        {
+            "party": "customer",
+            "turn": "Yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "yes"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes"
+        }
+    ],
+    "6": [
+        {
+            "party": "customer",
+            "turn": "Hi I am unable to log into my account because I lost my phone"
+        },
+        {
+            "party": "customer",
+            "turn": "I wanted to check my order information on my account, but I can't remember my username."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi I wanted to check on my order status but I lost my file with my username and I can't log in"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I know this sounds silly but I forgot my username and I can't get into my account."
+        },
+        {
+            "party": "customer",
+            "turn": "But I can't access my account because I forgot my username"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello! I am trying to view my shopping history, but I can't get in to my account. I think I forgot my password"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I forgot my password. I am trying to get in to modify and check my order."
+        },
+        {
+            "party": "customer",
+            "turn": "I am trying to log into my account and can't remember my password"
+        },
+        {
+            "party": "customer",
+            "turn": "i can't get into my account because i forgot my password"
+        },
+        {
+            "party": "customer",
+            "turn": "I need to get into my account to check on my order, but I don't have my username"
+        },
+        {
+            "party": "customer",
+            "turn": "I want to check my order but I can't log in because I lost my phone"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I was trying to access my account online to check the status of my order but I seem to have forgotten my password"
+        },
+        {
+            "party": "customer",
+            "turn": "i can't access my account since i lost my phone that i used for the two factor authentication. i would like to log into my account"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I was trying to access my account but I seem to have forgotten my password"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi there!  I'm trying to view my shopping history but can't seem to access my account.   I think I have forgotten my password"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I was wanting to check my account today.. But I don't  have my phone that I used to set up my authentication."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi!  I want to check to see if my order has been shipped yet.  However I forgot my password to my account.   Can you help me?"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I need to check an order but I forgot my password."
+        },
+        {
+            "party": "customer",
+            "turn": "I forgot my username, and can't access my account."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, i can not access my account because i have forgotten my username"
+        }
+    ],
+    "7": [
+        {
+            "party": "customer",
+            "turn": "Do you have a price match on these things? Or can I cancel my order?"
+        },
+        {
+            "party": "customer",
+            "turn": "Can I replace it with something else?"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you tell me the status of my order?"
+        },
+        {
+            "party": "customer",
+            "turn": "so can you change the shipping?"
+        },
+        {
+            "party": "customer",
+            "turn": "can you tell me if it has already shipped?"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you help me check where my order was sent?"
+        },
+        {
+            "party": "customer",
+            "turn": "Would you know if it will be returned to my credit card?"
+        },
+        {
+            "party": "customer",
+            "turn": "Is it possible to change my shipping address through you?"
+        },
+        {
+            "party": "customer",
+            "turn": "Why do you need my membership level to make a return?"
+        },
+        {
+            "party": "customer",
+            "turn": "will it work on your site?"
+        },
+        {
+            "party": "customer",
+            "turn": "I think I'm good, will purchasing be able to ship the jacket to me?"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you check and see if I have one or not?"
+        },
+        {
+            "party": "customer",
+            "turn": "how is it valid if I did not order it?"
+        },
+        {
+            "party": "customer",
+            "turn": "is it possible to resend my order?"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you tell me when it will be available?"
+        },
+        {
+            "party": "customer",
+            "turn": "How do I pay for the upgraded membership?"
+        },
+        {
+            "party": "customer",
+            "turn": "could you tell me when they're planned to end?"
+        },
+        {
+            "party": "customer",
+            "turn": "Thats great, what information do you need to cancel it for me?"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you please tell me the status of my order?"
+        },
+        {
+            "party": "customer",
+            "turn": "what about when i do get a subscription"
+        }
+    ],
+    "8": [
+        {
+            "party": "customer",
+            "turn": "No, that is all.  I'm going to start thinking about what I want you to buy for me :)"
+        },
+        {
+            "party": "customer",
+            "turn": "the order confirmation said it would be delivered in March 2021 so I'm pretty sure that isn't right!  Surely it wouldn't take a year to get my jacket!"
+        },
+        {
+            "party": "customer",
+            "turn": "Ah okay, well secondly I guess if say I actually had a pair of these already would you know of who I'm supposed to contact if I have an issue with them?"
+        },
+        {
+            "party": "customer",
+            "turn": "Okay, I'll keep that in mind next time I want to order anything."
+        },
+        {
+            "party": "customer",
+            "turn": "Might wanna tell your website team to get that sorted. Thanks a lot for the suggestion!"
+        },
+        {
+            "party": "customer",
+            "turn": "No, not at all.  I was just thinking of ordering some things and I don't want to if the cancelation process is too hard."
+        },
+        {
+            "party": "customer",
+            "turn": "well, that is too bad, maybe I will find a store with better return policy on the next purchase"
+        },
+        {
+            "party": "customer",
+            "turn": "I found these fantastic Calvin Klein boots that I want to buy, but I usually don't spend more than $10 on my footwear...I usually only buy on clearance. So if I spend that much, I wanted to make sure that the boots come with a warranty."
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks, that's great. I was thinking I might need to dry clean it."
+        },
+        {
+            "party": "customer",
+            "turn": "Ha. I'll try searching for Calvin Klein boots, since that's what it keeps showing me anyway."
+        },
+        {
+            "party": "customer",
+            "turn": "Shipping status says delivered.  I haven't checked my mail today, but maybe I just need to return it then?"
+        },
+        {
+            "party": "customer",
+            "turn": "that is all.  i'll try logging in and if i have problems still, i'll let you know."
+        },
+        {
+            "party": "customer",
+            "turn": "I'm not sure. I would have to look at my account again."
+        },
+        {
+            "party": "customer",
+            "turn": "Ah, not really what I was hoping for. I guess I can just return the shirt?"
+        },
+        {
+            "party": "customer",
+            "turn": "Sure! Sounds great but I didn't tell you what item I want"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I'm trying to find out why the Jeans I bought yesterday at 54.00 are now 49.00, If I had known i'd have just waited."
+        },
+        {
+            "party": "customer",
+            "turn": "I received it 8 days ago, I didn't know that. Is there anyway I can get a discount?"
+        },
+        {
+            "party": "customer",
+            "turn": "Nope, I think that about sums it up. Will lookout for the refund. Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes, I am a bit of a shopaholic and really am anxious to know when the new fall line will be open to shop?"
+        },
+        {
+            "party": "customer",
+            "turn": "I think it might be lost, anyway I can get it resent?"
+        }
+    ],
+    "9": [
+        {
+            "party": "customer",
+            "turn": "my order id is 0281441834"
+        },
+        {
+            "party": "customer",
+            "turn": "Sure my Account ID: M1KLZX82AU and Order ID: 4909785365"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 2279238850"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 2137390162"
+        },
+        {
+            "party": "customer",
+            "turn": "Account ID: TN3RF6NSN3 Order ID: 7742568152"
+        },
+        {
+            "party": "customer",
+            "turn": "Sure Account ID: KYKG7NA84S & Order ID: 0594355902"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID is 7512073443"
+        },
+        {
+            "party": "customer",
+            "turn": "Account ID: 60UNOBL9RC and Order ID: 2913114880"
+        },
+        {
+            "party": "customer",
+            "turn": "Account ID: CBZIMR7YOH, order id is 2505149135"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 6837496410"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 1345018412"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 2665693827"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 4158487196"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 4628917502"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 9110283963"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 3317858206"
+        },
+        {
+            "party": "customer",
+            "turn": "My account ID is NVG8NXU4HE and my Order ID is 2879944901"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 8546369243"
+        },
+        {
+            "party": "customer",
+            "turn": "Order ID: 8718418282"
+        },
+        {
+            "party": "customer",
+            "turn": "RN66UZP4JW is my account number and my order Id is 5314038262"
+        }
+    ],
+    "10": [
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank You"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you"
+        }
+    ],
+    "12": [
+        {
+            "party": "customer",
+            "turn": "Hello, I'm having some issues shopping online. I want to buy something but my cart online is not updating when I add the item."
+        },
+        {
+            "party": "customer",
+            "turn": "Hello!   I am having trouble with the cart on the site.  Everytime I try to add something it won't update.  Can you help?"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello, I'm trying to buy something on the site and it just won't take my credit card for some reason.  Can you help?"
+        },
+        {
+            "party": "customer",
+            "turn": "Um hi, sorry to bother you with this...I keep trying to click on the search button to search up some items and it's not loading at all?"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes i'm trying to look at some thing on your website but its running very slow today. Trying figure out why"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes...I was wondering if there was a problem because I am trying to accessmy order and the website is not responding"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi. I'm trying to place an order but the website is just so slow it's annoying."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi there, I'm trying to make a purchase but for some reason my credit card keeps getting rejected. I'm trying to figure out why it is deemed invalid."
+        },
+        {
+            "party": "customer",
+            "turn": "Im trying to buy something but my cart is not updating"
+        },
+        {
+            "party": "customer",
+            "turn": "I am trying to find the Tommy Hilfiger boots to order but keep getting the spinning wheel and it's now showing me anything"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, the website is running really slow because I'm trying to shop on there."
+        },
+        {
+            "party": "customer",
+            "turn": "I am trying to use a promo code and its not working"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi. I was lookign to buy a nice pair of CK boots for my wife but for some reason the search bar keeps giving me completely unrelated results..."
+        },
+        {
+            "party": "customer",
+            "turn": "I'm trying to use a promo code but the site says its invalid"
+        },
+        {
+            "party": "customer",
+            "turn": "I'm trying to order something that is out of stock, is there any way you can help me order it still?"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello I recieved a promo code 8 days ago and I am trying to use it on this order but it is saying the code is invalid, can you please help me with this?"
+        },
+        {
+            "party": "customer",
+            "turn": "HI! I am trying to buy a shirt but it seems the website is really slow right now."
+        },
+        {
+            "party": "customer",
+            "turn": "Hello.  I am trying to order a Michael Kors jacket, but it says it's out of stock"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I am trying out this promotional code online and it is not working."
+        },
+        {
+            "party": "customer",
+            "turn": "I'm trying to buy a jacket, but it's not showing up in my shopping cart."
+        }
+    ],
+    "13": [
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "norman bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        },
+        {
+            "party": "customer",
+            "turn": "Norman Bouchard"
+        }
+    ],
+    "14": [
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "Albert Sanders"
+        }
+    ],
+    "15": [
+        {
+            "party": "customer",
+            "turn": "great thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "Great thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "great thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "Great thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "great! thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Great! Thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "awesome thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "thanks!"
+        }
+    ],
+    "16": [
+        {
+            "party": "customer",
+            "turn": "Just a moment"
+        },
+        {
+            "party": "customer",
+            "turn": "One moment pls"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes please. One more question"
+        }
+    ],
+    "17": [
+        {
+            "party": "customer",
+            "turn": "Unfortunately I don't remember my email address for this account, but I do have my PIN number. Would that work?"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you for all that information.  I actually do not have my username.  Do you have that also"
+        },
+        {
+            "party": "customer",
+            "turn": "I can give you my phone number if that would help. I do not have a username or email."
+        },
+        {
+            "party": "customer",
+            "turn": "Yes, that is the correct phone number to have on the account"
+        },
+        {
+            "party": "customer",
+            "turn": "The answer to my security question is Livingston"
+        }
+    ],
+    "18": [
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "ok thanks"
+        }
+    ],
+    "20": [
+        {
+            "party": "customer",
+            "turn": "it says out of delivery"
+        },
+        {
+            "party": "customer",
+            "turn": "it says Order Received"
+        },
+        {
+            "party": "customer",
+            "turn": "it is in transit"
+        },
+        {
+            "party": "customer",
+            "turn": "it is out for delivery"
+        },
+        {
+            "party": "customer",
+            "turn": "it says out for delivery"
+        },
+        {
+            "party": "customer",
+            "turn": "Order received"
+        },
+        {
+            "party": "customer",
+            "turn": "Order Received"
+        },
+        {
+            "party": "customer",
+            "turn": "Order Received"
+        },
+        {
+            "party": "customer",
+            "turn": "Order Received"
+        },
+        {
+            "party": "customer",
+            "turn": "Order received"
+        },
+        {
+            "party": "customer",
+            "turn": "Order Received"
+        },
+        {
+            "party": "customer",
+            "turn": "Order Received"
+        },
+        {
+            "party": "customer",
+            "turn": "in transit"
+        },
+        {
+            "party": "customer",
+            "turn": "In Transit"
+        },
+        {
+            "party": "customer",
+            "turn": "In Transit"
+        },
+        {
+            "party": "customer",
+            "turn": "in transit"
+        },
+        {
+            "party": "customer",
+            "turn": "In Transit"
+        },
+        {
+            "party": "customer",
+            "turn": "In Transit"
+        },
+        {
+            "party": "customer",
+            "turn": "In transit"
+        },
+        {
+            "party": "customer",
+            "turn": "In transit"
+        }
+    ],
+    "21": [
+        {
+            "party": "customer",
+            "turn": "Hello!  My name is Sanya Afzal.  Who am I speaking with today?"
+        }
+    ],
+    "22": [
+        {
+            "party": "customer",
+            "turn": "Have a good day!"
+        },
+        {
+            "party": "customer",
+            "turn": "and have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a great day also"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks, have a great day and goodbye!"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you. Have a good day."
+        },
+        {
+            "party": "customer",
+            "turn": "Have a nice day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a nice day"
+        },
+        {
+            "party": "customer",
+            "turn": "Thank you have a good day"
+        },
+        {
+            "party": "customer",
+            "turn": "thank you have a good day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a good evening!"
+        },
+        {
+            "party": "customer",
+            "turn": "No thanks. Have a good day!"
+        },
+        {
+            "party": "customer",
+            "turn": "sounds good.  have a great day."
+        },
+        {
+            "party": "customer",
+            "turn": "Thanks so much, have a great day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a good day"
+        },
+        {
+            "party": "customer",
+            "turn": "Have a good day"
+        }
+    ],
+    "23": [
+        {
+            "party": "customer",
+            "turn": "Hello, i just signed up for a premium subscription service and i was wondering if you can give me an update of my status because i would like to keep it"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I need to check the status of my account because my subscription was removed and I still want it"
+        },
+        {
+            "party": "customer",
+            "turn": "I would like to check the status of a return and I need to add another item, thanks."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, can you let me know the state of my refund, because I would like to return somemthing else."
+        },
+        {
+            "party": "customer",
+            "turn": "I am thinking of buying a birthday gift from your website, but I just wanted to check on your return policy in case it doesn't fit."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I was trying to make a purchase and would need some more information about the product"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I have a question about my account. I noticed that when looking for the status of it, I was signed up for a subscription service"
+        },
+        {
+            "party": "customer",
+            "turn": "HI! I wanted to check the status of my order online but I am having trouble logging in"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello, I have a question about the status of my subscription. I want to make sure it's active."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I want to check the status of subscription"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi I want to check up on my order status online."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I need to check the status of an order I made"
+        },
+        {
+            "party": "customer",
+            "turn": "I want to check the status of my order"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello, I would like to know what the return policy is as I would like to order something soon"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I would like to check the status of my account."
+        },
+        {
+            "party": "customer",
+            "turn": "i would like to check the status of my subscription account"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi I'd like to check on shipping status because my package was never received."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, i would like to manage my shipping details"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello, I would like to look into changing the delivery time of my order."
+        },
+        {
+            "party": "customer",
+            "turn": "I'm needing to check on the status of my subscription."
+        }
+    ],
+    "24": [
+        {
+            "party": "customer",
+            "turn": "silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "silver"
+        },
+        {
+            "party": "customer",
+            "turn": "silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        },
+        {
+            "party": "customer",
+            "turn": "Silver"
+        }
+    ],
+    "25": [
+        {
+            "party": "customer",
+            "turn": "What is your Agent ID #?"
+        }
+    ],
+    "26": [
+        {
+            "party": "customer",
+            "turn": "Email Address: nb270961@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: sa537800@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "email address is albertsanders094@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: alessandrop876@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: crystalm926@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "my email is cz180252@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: ap022975@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "jb813320@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email is jw320724@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "My email is crystalm796@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: crystalm561@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: sa732542@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: cm547990@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: cz565425@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "nb433367@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "my email address is  rd419688@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: as664540@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "Email Address: cminh450@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": " rodriguezd691@email.com"
+        },
+        {
+            "party": "customer",
+            "turn": "my email is albertsanders226@email.com"
+        }
+    ],
+    "27": [
+        {
+            "party": "customer",
+            "turn": "I am a little upset I checked on my order and found out that you now have the same boots f"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi I want to make sure the items I ordered are actually being shipped because I got an email saying it was another item."
+        },
+        {
+            "party": "customer",
+            "turn": "I want to know the total cost of the order I purchased because I got an email saying conflicting information."
+        },
+        {
+            "party": "customer",
+            "turn": "hi, i got an email stating they were sending some items i did not order i just want to make sure my order is correct"
+        },
+        {
+            "party": "customer",
+            "turn": "I think I got charged a different amount for my order"
+        },
+        {
+            "party": "customer",
+            "turn": "You see I received an email saying that the subscription has been added to my account even though I did not want it"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi there. I wanted to check the status of my most recent order because I see an extra fee on the invoice, and I'm not sure why."
+        },
+        {
+            "party": "customer",
+            "turn": "I am a little upset I checked on my order and found out that you now have the same boots for $12 less"
+        },
+        {
+            "party": "customer",
+            "turn": "I just looked at my order status and it looks like  I was a charged an extra fee for my jacket? why? can you take it off?"
+        },
+        {
+            "party": "customer",
+            "turn": "I really don't like my Calvin_Klein jacket and wanted to add it to my refund."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I just placed an order and got the invoice but the shipping was a lot more expensive than it should have been."
+        },
+        {
+            "party": "customer",
+            "turn": "Hi! I bought a pair of jeans but apparently in the receipt, there was no shipping cost. I requested the expedite shipping."
+        },
+        {
+            "party": "customer",
+            "turn": "I was checking my email and it says my subscription was removed"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello, I bought a pair of Michael Kors Jeans and when I went to use the promo code I have. I was told it was invalid."
+        },
+        {
+            "party": "customer",
+            "turn": "I need to confirm the shipping date on an order.  I got an email saying it was going to be delivered at a different time frame than originally stated."
+        },
+        {
+            "party": "customer",
+            "turn": "I bought a pair of jeans as a birthday present but I was just told it was the wrong color. I was wondering if I could return it>"
+        },
+        {
+            "party": "customer",
+            "turn": "HI! i wanted to check the order status as the shipping cost is too high"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello, I read in an email that I received that my subscription was removed from my account but I still want it."
+        },
+        {
+            "party": "customer",
+            "turn": "Yes i want to return an item i ordered"
+        },
+        {
+            "party": "customer",
+            "turn": "I want to return something I bought in the wrong size please"
+        }
+    ],
+    "28": [
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Chloe Zhang"
+        }
+    ],
+    "29": [
+        {
+            "party": "customer",
+            "turn": "Thats all. Thanks for your help"
+        },
+        {
+            "party": "customer",
+            "turn": "that is all. Thanks for your help"
+        },
+        {
+            "party": "customer",
+            "turn": "That is all. Thanks for your help"
+        },
+        {
+            "party": "customer",
+            "turn": "Great, thanks for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "Perfect, thanks for you help. Thats all I need today."
+        },
+        {
+            "party": "customer",
+            "turn": "That's great, thanks for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "Great, thank you for your help.   That's all I need."
+        },
+        {
+            "party": "customer",
+            "turn": "That is all. Thank you for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "That is all. Appreciate your help"
+        },
+        {
+            "party": "customer",
+            "turn": "That's all.  Thanks for your help!"
+        },
+        {
+            "party": "customer",
+            "turn": "That's all.  Thanks for your help!"
+        },
+        {
+            "party": "customer",
+            "turn": "That's great, thanks so much for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "Good to know, thank you for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "No, that is it.  Thank you for your help"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, thanks for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "No, that is all. Thanks for your help."
+        },
+        {
+            "party": "customer",
+            "turn": "Thats all for today. Thank you for your help"
+        },
+        {
+            "party": "customer",
+            "turn": "That is all. Thank you!"
+        },
+        {
+            "party": "customer",
+            "turn": "ok, thanks for all your help"
+        },
+        {
+            "party": "customer",
+            "turn": "No that was it, thank you for the help."
+        }
+    ],
+    "31": [
+        {
+            "party": "customer",
+            "turn": "Is there anything else?"
+        },
+        {
+            "party": "customer",
+            "turn": "anything else?"
+        },
+        {
+            "party": "customer",
+            "turn": "anything else?"
+        },
+        {
+            "party": "customer",
+            "turn": "Do you need any more information?"
+        },
+        {
+            "party": "customer",
+            "turn": "Do you know anything else i can do?"
+        },
+        {
+            "party": "customer",
+            "turn": "No luck, anything else?"
+        }
+    ],
+    "32": [
+        {
+            "party": "customer",
+            "turn": "How can i get the account ID and the order ID?"
+        }
+    ],
+    "33": [
+        {
+            "party": "customer",
+            "turn": "Is there anything else I can do?"
+        },
+        {
+            "party": "customer",
+            "turn": "I see. Is there anything else you can do?"
+        }
+    ],
+    "36": [
+        {
+            "party": "customer",
+            "turn": "Hello are you there?"
+        },
+        {
+            "party": "customer",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "customer",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "customer",
+            "turn": "are you there?"
+        },
+        {
+            "party": "customer",
+            "turn": "HELLO FRIEND ARE YOU HERE?"
+        },
+        {
+            "party": "customer",
+            "turn": "you there?"
+        },
+        {
+            "party": "customer",
+            "turn": "you there?"
+        },
+        {
+            "party": "customer",
+            "turn": "Are you still there?"
+        },
+        {
+            "party": "customer",
+            "turn": "Are you still there?"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello. Are you still with me?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "hello?"
+        },
+        {
+            "party": "customer",
+            "turn": "Hello?"
+        }
+    ],
+    "37": [
+        {
+            "party": "customer",
+            "turn": "Your technology is in need of an upgrade. Once you accessed my account you should be able to see the orders."
+        },
+        {
+            "party": "customer",
+            "turn": "Oh, I understand. I'm sorry. I misread and it was changed back to the 25th, but the time is still incorrect form the original time. It should be earlier in the day."
+        },
+        {
+            "party": "customer",
+            "turn": "At this point I am concerned as this is highly unusual. It would be most appreciated if you could arrange a replacement shipment."
+        },
+        {
+            "party": "customer",
+            "turn": "Okay, 777211.  I am going to send your supervisor a note telling them how helpful you were today."
+        },
+        {
+            "party": "customer",
+            "turn": "I do understand. But the increase was substantial. It's just very disappointing."
+        },
+        {
+            "party": "customer",
+            "turn": "I am sorry to hear that."
+        },
+        {
+            "party": "customer",
+            "turn": "If you would please please please, get this to the right department. I"
+        },
+        {
+            "party": "customer",
+            "turn": "You will kindly do something about this immediately, or Sir Albert Sanders will patronize your store no longer!"
+        }
+    ],
+    "38": [
+        {
+            "party": "customer",
+            "turn": "Thank you for your help. I assume this process can be used for any boots, including the ones I would like to purchase?"
+        },
+        {
+            "party": "customer",
+            "turn": "Perfect, can you tell me if it will just be refunded to the same debit card?"
+        },
+        {
+            "party": "customer",
+            "turn": "Great, thanks - could you send me a new confirmation with the correct date please, and change it in the order status online?"
+        },
+        {
+            "party": "customer",
+            "turn": "I'd like to return it by mail please"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you please pay for it with the card on file"
+        },
+        {
+            "party": "customer",
+            "turn": "I can return the item by mail"
+        },
+        {
+            "party": "customer",
+            "turn": "i would like to pay  the whole amount using the debit card already on my account please"
+        },
+        {
+            "party": "customer",
+            "turn": "I would like to go ahead and pay the fee now if that is okay"
+        },
+        {
+            "party": "customer",
+            "turn": "You can use he credit card on my account"
+        },
+        {
+            "party": "customer",
+            "turn": "okay, i would like to pay that with the card on file"
+        },
+        {
+            "party": "customer",
+            "turn": "I'd like to pay by credit card"
+        },
+        {
+            "party": "customer",
+            "turn": "use the one on file if you can"
+        },
+        {
+            "party": "customer",
+            "turn": "I need a return RMA to return and a shipping label"
+        },
+        {
+            "party": "customer",
+            "turn": "Refund to my PayPal would be ideal."
+        },
+        {
+            "party": "customer",
+            "turn": "By mail, please."
+        },
+        {
+            "party": "customer",
+            "turn": "Use the one already on the account please."
+        },
+        {
+            "party": "customer",
+            "turn": "Refund directly to my card, please"
+        },
+        {
+            "party": "customer",
+            "turn": "Please use the card on file"
+        },
+        {
+            "party": "customer",
+            "turn": "You can use the one on file"
+        },
+        {
+            "party": "customer",
+            "turn": "the card that is on the account"
+        }
+    ],
+    "39": [
+        {
+            "party": "customer",
+            "turn": "You're welcome."
+        },
+        {
+            "party": "customer",
+            "turn": "You're welcome."
+        }
+    ],
+    "42": [
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "You too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        },
+        {
+            "party": "customer",
+            "turn": "you too"
+        }
+    ],
+    "43": [
+        {
+            "party": "customer",
+            "turn": "please check the shipping status of the order."
+        },
+        {
+            "party": "customer",
+            "turn": "I see. what was the method of the refund please"
+        },
+        {
+            "party": "customer",
+            "turn": "what to know what status is the delivery"
+        },
+        {
+            "party": "customer",
+            "turn": "What color is the jacket and for what temperature is it?"
+        },
+        {
+            "party": "customer",
+            "turn": "what is the material the jacket is made out of?"
+        }
+    ],
+    "44": [
+        {
+            "party": "customer",
+            "turn": "you're welcome!"
+        },
+        {
+            "party": "customer",
+            "turn": "Stay safe!"
+        }
+    ],
+    "45": [
+        {
+            "party": "customer",
+            "turn": "HI"
+        },
+        {
+            "party": "customer",
+            "turn": "hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi"
+        },
+        {
+            "party": "customer",
+            "turn": "hi"
+        }
+    ],
+    "46": [
+        {
+            "party": "customer",
+            "turn": "No that's all"
+        },
+        {
+            "party": "customer",
+            "turn": "No that's all"
+        },
+        {
+            "party": "customer",
+            "turn": "no that's all"
+        },
+        {
+            "party": "customer",
+            "turn": "No that\u2019s all thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "no thats all thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "no thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "no thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "Thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "thats all"
+        },
+        {
+            "party": "customer",
+            "turn": "yes that's all"
+        },
+        {
+            "party": "customer",
+            "turn": "No, that's all thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "No that\u2019s all"
+        },
+        {
+            "party": "customer",
+            "turn": "No that's all."
+        },
+        {
+            "party": "customer",
+            "turn": "That is all."
+        },
+        {
+            "party": "customer",
+            "turn": "That is all."
+        }
+    ],
+    "48": [
+        {
+            "party": "customer",
+            "turn": "its for a calvin klein jacket $79"
+        },
+        {
+            "party": "customer",
+            "turn": "the Michael Kors jacket for$59"
+        },
+        {
+            "party": "customer",
+            "turn": "It's the Michael Kors jeans for $64"
+        },
+        {
+            "party": "customer",
+            "turn": "i purchased a michael kors 74$ jacket"
+        },
+        {
+            "party": "customer",
+            "turn": "it is a pair of Michael Kors jens"
+        },
+        {
+            "party": "customer",
+            "turn": "its the michael kors boots for $54"
+        },
+        {
+            "party": "customer",
+            "turn": "I ordered these michael kors boots for $54"
+        },
+        {
+            "party": "customer",
+            "turn": "it's the calvin klein jacket"
+        },
+        {
+            "party": "customer",
+            "turn": "i am interested in the $74 michael kors jeans"
+        },
+        {
+            "party": "customer",
+            "turn": "It's a Michael Kors shirt"
+        },
+        {
+            "party": "customer",
+            "turn": "They are Calvin Klein brand jeans"
+        },
+        {
+            "party": "customer",
+            "turn": "It was a pair of $79 calvin klein boots"
+        },
+        {
+            "party": "customer",
+            "turn": "yes for a tommy hilfiger shirt"
+        },
+        {
+            "party": "customer",
+            "turn": "A Michael Kors Jacket"
+        },
+        {
+            "party": "customer",
+            "turn": "It is a pair of guess boots"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi, I am looking  at the Michael Kors boots $49"
+        },
+        {
+            "party": "customer",
+            "turn": "I want your $69 Michael Kors jacket"
+        },
+        {
+            "party": "customer",
+            "turn": "it's a pair of jeans by Tommy Hilfiger"
+        },
+        {
+            "party": "customer",
+            "turn": "It was a pair of guess jeans"
+        },
+        {
+            "party": "customer",
+            "turn": "Michael Kors boots for $84"
+        }
+    ],
+    "50": [
+        {
+            "party": "customer",
+            "turn": "Oh  2019-09-22"
+        },
+        {
+            "party": "customer",
+            "turn": "2020-02-17"
+        },
+        {
+            "party": "customer",
+            "turn": "2019-12-28"
+        },
+        {
+            "party": "customer",
+            "turn": "1-18-2020"
+        },
+        {
+            "party": "customer",
+            "turn": "2020-03-19"
+        },
+        {
+            "party": "customer",
+            "turn": "7-06- 2019"
+        },
+        {
+            "party": "customer",
+            "turn": " 2019-12-15"
+        },
+        {
+            "party": "customer",
+            "turn": "2020-02-03"
+        },
+        {
+            "party": "customer",
+            "turn": "Sorry actually Purchase Date: 2019-09-20"
+        },
+        {
+            "party": "customer",
+            "turn": "Purchase Date: 2020-03-27"
+        },
+        {
+            "party": "customer",
+            "turn": "Purchase Date: 2020-02-26"
+        },
+        {
+            "party": "customer",
+            "turn": "Purchase Date: 2020-03-17"
+        },
+        {
+            "party": "customer",
+            "turn": "Purchase Date: 2019-11-05"
+        },
+        {
+            "party": "customer",
+            "turn": "Purchase Date: 2019-11-16"
+        },
+        {
+            "party": "customer",
+            "turn": "2019-10-16"
+        },
+        {
+            "party": "customer",
+            "turn": "Bronze Purchase Date: 2020-01-12"
+        },
+        {
+            "party": "customer",
+            "turn": "i bought it on 09-28-2019"
+        },
+        {
+            "party": "customer",
+            "turn": "2019-10-30"
+        },
+        {
+            "party": "customer",
+            "turn": "purchase date is 2019-07-30"
+        },
+        {
+            "party": "customer",
+            "turn": "It was purchased on 2020-03-22"
+        }
+    ],
+    "51": [
+        {
+            "party": "customer",
+            "turn": "Okay, thank you."
+        },
+        {
+            "party": "customer",
+            "turn": "Okay, thank you."
+        },
+        {
+            "party": "customer",
+            "turn": "Okay, thank you."
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, thank you."
+        },
+        {
+            "party": "customer",
+            "turn": "okay, thanks."
+        },
+        {
+            "party": "customer",
+            "turn": "Great, thanks."
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thanks."
+        },
+        {
+            "party": "customer",
+            "turn": "Okay thanks."
+        },
+        {
+            "party": "customer",
+            "turn": "Ok thank you."
+        },
+        {
+            "party": "customer",
+            "turn": "great. thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "great. Thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, great. Thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "ok, great.  thank you"
+        },
+        {
+            "party": "customer",
+            "turn": "Okay, thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "okay, thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Okay, thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "okay. thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Okay. Thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok. thank you."
+        },
+        {
+            "party": "customer",
+            "turn": "ok. thank you"
+        }
+    ],
+    "52": [
+        {
+            "party": "customer",
+            "turn": "Thats great"
+        },
+        {
+            "party": "customer",
+            "turn": "No that's great"
+        },
+        {
+            "party": "customer",
+            "turn": "thats perfect"
+        },
+        {
+            "party": "customer",
+            "turn": "that's perfect"
+        },
+        {
+            "party": "customer",
+            "turn": "That's great"
+        },
+        {
+            "party": "customer",
+            "turn": "that's great"
+        },
+        {
+            "party": "customer",
+            "turn": "That is great"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes that would be great."
+        },
+        {
+            "party": "customer",
+            "turn": "that's pretty cool"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes, that would be perfect.  Thanks"
+        },
+        {
+            "party": "customer",
+            "turn": "That is good"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes that would be great"
+        },
+        {
+            "party": "customer",
+            "turn": "Thats fine"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, that would be all I need."
+        },
+        {
+            "party": "customer",
+            "turn": "That'd be great."
+        },
+        {
+            "party": "customer",
+            "turn": "Yes, that would be great"
+        },
+        {
+            "party": "customer",
+            "turn": "that would be great, thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "That would be great,."
+        },
+        {
+            "party": "customer",
+            "turn": "that will do it"
+        },
+        {
+            "party": "customer",
+            "turn": "That'll do it"
+        }
+    ],
+    "53": [
+        {
+            "party": "customer",
+            "turn": "Ok, I tried that but it still doesn't work."
+        },
+        {
+            "party": "customer",
+            "turn": "I just tried that, it still didn't work."
+        },
+        {
+            "party": "customer",
+            "turn": "Alright, I tried that but it doesn't appear to have fixed the problem"
+        },
+        {
+            "party": "customer",
+            "turn": "Alright, I tried it again, but it's still not working."
+        },
+        {
+            "party": "customer",
+            "turn": "okay, I tried that, it still is bringing up shoes when I search for jackets"
+        },
+        {
+            "party": "customer",
+            "turn": "OK, just tried that and it still doesn't work."
+        },
+        {
+            "party": "customer",
+            "turn": "okay, I tried logging in and out but that didn't fix the problem"
+        },
+        {
+            "party": "customer",
+            "turn": "I just tried it, it didn't worked."
+        },
+        {
+            "party": "customer",
+            "turn": "I tried that but it still doesn't seem to be working."
+        },
+        {
+            "party": "customer",
+            "turn": "ok. I tried that and it didn't help."
+        },
+        {
+            "party": "customer",
+            "turn": "I just tried it, it didn't work."
+        },
+        {
+            "party": "customer",
+            "turn": "I just tried it, it didn't work."
+        },
+        {
+            "party": "customer",
+            "turn": "I tried that and it worked"
+        },
+        {
+            "party": "customer",
+            "turn": "Okay I tried that but it's still not adding it"
+        },
+        {
+            "party": "customer",
+            "turn": "Didn't work, that was the first thing I tried."
+        },
+        {
+            "party": "customer",
+            "turn": "Yes, I tried, but it's not working"
+        },
+        {
+            "party": "customer",
+            "turn": "I did it but it's still slow"
+        },
+        {
+            "party": "customer",
+            "turn": "No, still not working right"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, it's not working."
+        },
+        {
+            "party": "customer",
+            "turn": "I tried it, didn't work."
+        }
+    ],
+    "54": [
+        {
+            "party": "customer",
+            "turn": "My name is Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "my name is Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Albert Sanders"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Rodriguez Domingo"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Rodriguez Domingo"
+        },
+        {
+            "party": "customer",
+            "turn": "my name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "my name is joyce wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Joyce Wu"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "my name is Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "Hi my name is Chloe Zhang"
+        },
+        {
+            "party": "customer",
+            "turn": "My name is Crystal Minh"
+        }
+    ],
+    "56": [
+        {
+            "party": "customer",
+            "turn": "okay, I'll try that."
+        },
+        {
+            "party": "customer",
+            "turn": "Ok i will try that."
+        },
+        {
+            "party": "customer",
+            "turn": "I will try that.  Thanks!"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, let me try that."
+        },
+        {
+            "party": "customer",
+            "turn": "OK I'll try that"
+        },
+        {
+            "party": "customer",
+            "turn": "Alright I'll try that"
+        },
+        {
+            "party": "customer",
+            "turn": "Awesome thank's let me try that."
+        },
+        {
+            "party": "customer",
+            "turn": "Ok I'll go try that"
+        },
+        {
+            "party": "customer",
+            "turn": "Oh okay, thanks so much.  I'll check that."
+        },
+        {
+            "party": "customer",
+            "turn": "Ok. let me try"
+        },
+        {
+            "party": "customer",
+            "turn": "Ok, I'll try"
+        },
+        {
+            "party": "customer",
+            "turn": "Let me try that, one second."
+        },
+        {
+            "party": "customer",
+            "turn": "Let me try."
+        },
+        {
+            "party": "customer",
+            "turn": "Let me try."
+        },
+        {
+            "party": "customer",
+            "turn": "okay, let me try"
+        },
+        {
+            "party": "customer",
+            "turn": "let me try that now"
+        },
+        {
+            "party": "customer",
+            "turn": "Yes let me try that"
+        },
+        {
+            "party": "customer",
+            "turn": "Sure, I will go try that now"
+        },
+        {
+            "party": "customer",
+            "turn": "okay, let me make sure it can log me in please."
+        },
+        {
+            "party": "customer",
+            "turn": "Sure. Let me try that."
+        }
+    ],
+    "57": [
+        {
+            "party": "customer",
+            "turn": "I have a $0 balance today but it is due tomorrow.   If my order ships today, will I be all set with the expedited shipping and special discounts?"
+        },
+        {
+            "party": "customer",
+            "turn": "Ahhh I see. THanks for letting me know. May I pay the subscription few and activate my subscription now?"
+        },
+        {
+            "party": "customer",
+            "turn": " If the due date is today iwould like to go ahead and pay the fee"
+        },
+        {
+            "party": "customer",
+            "turn": "Go ahead and pay the whole balance"
+        },
+        {
+            "party": "customer",
+            "turn": "It expires on October 15, 2023"
+        }
+    ],
+    "58": [
+        {
+            "party": "customer",
+            "turn": "Could you paste the remaining steps for me as well please"
+        },
+        {
+            "party": "customer",
+            "turn": "Can you please just check one more time"
+        }
+    ],
+    "59": [
+        {
+            "party": "customer",
+            "turn": "0304 1st Ave  Brighton, WA 51361"
+        },
+        {
+            "party": "customer",
+            "turn": "address is 5937 Circle Drive  San Lima, WA 78547"
+        },
+        {
+            "party": "customer",
+            "turn": "Address: 3063 Lincoln Ave  Baltimore, TX 86068"
+        },
+        {
+            "party": "customer",
+            "turn": "Address: 9205 Primrose Ave  Raleigh, WA 5667"
+        },
+        {
+            "party": "customer",
+            "turn": "The address is 7798 Primrose Ave, San Lima, TX 64061"
+        },
+        {
+            "party": "customer",
+            "turn": "3398 2nd Ave  Brighton, MI 51642"
+        },
+        {
+            "party": "customer",
+            "turn": "4887 Lincoln Ave, Monterey, MI 90547"
+        },
+        {
+            "party": "customer",
+            "turn": "The correct address is 3918 Woodshore St  Baltimore, WA 44006"
+        },
+        {
+            "party": "customer",
+            "turn": "My adress is 5918 Primrose Ave  Baltimore, TX 75185"
+        },
+        {
+            "party": "customer",
+            "turn": "9835 2nd Ave. Jacksonvill NY 89693"
+        },
+        {
+            "party": "customer",
+            "turn": "My address is 6608 Primrose Ave, Brighton, NY 48994 if that helps."
+        },
+        {
+            "party": "customer",
+            "turn": "The new one is 3498 Wayward Drive, Baltimore, NY 31087"
+        },
+        {
+            "party": "customer",
+            "turn": "3898 Lexington Ave BAltimore TX 96621"
+        },
+        {
+            "party": "customer",
+            "turn": "My address is 2773 Brushwick Dr  San Mateo, WA 17735"
+        },
+        {
+            "party": "customer",
+            "turn": "My address is 6335 Circle Drive, Newark, CA 62285"
+        },
+        {
+            "party": "customer",
+            "turn": "5492 Kennedy St  San Lima, MI 11276"
+        },
+        {
+            "party": "customer",
+            "turn": "Address: 5270 Circle Drive  San Lima, MI 81531"
+        },
+        {
+            "party": "customer",
+            "turn": "my adress is 7127 Woodshore St  Monterey, CA 30688"
+        },
+        {
+            "party": "customer",
+            "turn": " 2306 Primrose Ave  Jacksonville, WA 56316"
+        },
+        {
+            "party": "customer",
+            "turn": "5108 Primrose Ave, Brighton CA 79264"
+        }
+    ],
+    "60": [
+        {
+            "party": "agent",
+            "turn": "Sorry, I don't need the account ID."
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry but I don't have any information on it's thickness"
+        },
+        {
+            "party": "agent",
+            "turn": "I don't believe i caught your name?"
+        },
+        {
+            "party": "agent",
+            "turn": "It isn't validating the account ID."
+        },
+        {
+            "party": "agent",
+            "turn": "I dont know what that means?"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry, *have"
+        },
+        {
+            "party": "agent",
+            "turn": "please don't ask to verify identity"
+        },
+        {
+            "party": "agent",
+            "turn": "Sorry, the answer is no"
+        },
+        {
+            "party": "agent",
+            "turn": "You don't need to be sorry"
+        },
+        {
+            "party": "agent",
+            "turn": "sure, don't worry"
+        },
+        {
+            "party": "agent",
+            "turn": "I know right?"
+        },
+        {
+            "party": "agent",
+            "turn": "i am sirry abiut that"
+        }
+    ],
+    "61": [
+        {
+            "party": "agent",
+            "turn": "only need the street"
+        },
+        {
+            "party": "agent",
+            "turn": "Just a momnt"
+        },
+        {
+            "party": "agent",
+            "turn": "dollar fee"
+        },
+        {
+            "party": "agent",
+            "turn": "Welcome to customer service unit"
+        },
+        {
+            "party": "agent",
+            "turn": "customer username"
+        },
+        {
+            "party": "agent",
+            "turn": "then email address instead"
+        },
+        {
+            "party": "agent",
+            "turn": " and customer email"
+        },
+        {
+            "party": "agent",
+            "turn": "Of courese"
+        },
+        {
+            "party": "agent",
+            "turn": "adress*"
+        },
+        {
+            "party": "agent",
+            "turn": "Wrong size?"
+        },
+        {
+            "party": "agent",
+            "turn": "Dvined into the cosmic truth"
+        },
+        {
+            "party": "agent",
+            "turn": "54.99"
+        }
+    ],
+    "62": [
+        {
+            "party": "agent",
+            "turn": "If you are new to the site, you will have a guest membership, which gives you free returns in the first 30 days after purchase."
+        },
+        {
+            "party": "agent",
+            "turn": "You may be seeing a different sale period. If you find that the items do go back in price, I will provide a promo code for 10% off your cart. O0Q7P"
+        },
+        {
+            "party": "agent",
+            "turn": "Oops, looks like it cut off. Bronze members can return anything purchased within the last 90 days, and all other members have 30 days to return an item."
+        },
+        {
+            "party": "agent",
+            "turn": "Gold member get special privileges, so I will ship the item to you in a separate order with shipping fee. Does it sound good?"
+        },
+        {
+            "party": "agent",
+            "turn": "While this shirt is labeled as premium it doesn't require any special maintenance. You can just go ahead and wash it with your other clothes and it will be fine."
+        },
+        {
+            "party": "agent",
+            "turn": "so basically even though it is a good quality shirt, you can actually wash it with your other clothes normally. I would recommend you use some type of color guard or bleach detergent to try to preserve and splashes of color."
+        },
+        {
+            "party": "agent",
+            "turn": "Order are usually received within 2-5 business days unless you chose express shipping during check out."
+        },
+        {
+            "party": "agent",
+            "turn": "Unfortunately as a guest you are currently not entitled to any special features. Expedited shipping is available but at an additional cost. Upgrading your membership to at least bonze tier would unlock savings on shipping fees and some promo codes."
+        },
+        {
+            "party": "agent",
+            "turn": "Out standard membership fee is $99 per year. This increases based on tier, Silver members can have an agent make purchases on their behalf as well as cancel orders at any time. Gold members get the perks of both bronze and silver in addition to unlim"
+        },
+        {
+            "party": "agent",
+            "turn": "You should be able to wash the jacket whenever you feel the need to without worrying about it fading or losing color. It is suggested you should do so as well. We recommend at least twice per season. If you tend to wear it less frequently or sporadic"
+        },
+        {
+            "party": "agent",
+            "turn": "The extension should be good for 15 days. If you need longer than that feel free to contact an agent again and we'll be able to help"
+        },
+        {
+            "party": "agent",
+            "turn": "Gold is the top and gold members can refund their orders as many times as they need. Additionally, they are trusted more than our other customers and we are more lenient in customer service disputes."
+        },
+        {
+            "party": "agent",
+            "turn": "Gift wrapping is a per item charge of 4.99 so since you'll jut be getting the jacket it would be 4.99. Please noe that for a larger Item gift wrapping might not be available but you should be fine."
+        },
+        {
+            "party": "agent",
+            "turn": "Mr. Domingo, this jacket is made of high quality fabrics and will not shrink in the wash. But, over-drying can be a problem. It's best to line dry or use only low heat for this item."
+        },
+        {
+            "party": "agent",
+            "turn": "Our boots are a bit easier than other brands. Usually 40-60 hours of wear. But don't try to wear a new pair all day, it's not good for foot health."
+        },
+        {
+            "party": "agent",
+            "turn": "Should your store be closed at a given time, you can of course visit us online at www.acmebrands.com 24/7, where you can make purchases, process refunds, and get questions answered."
+        },
+        {
+            "party": "agent",
+            "turn": "Depending on the level of membership, your order information would have to meet certain criteria. For example, your bronze membership means you can return as long as: your order was purchased within the past 90 days OR you have your receipt OR it is"
+        },
+        {
+            "party": "agent",
+            "turn": "If you have concerns still, you can always purchase and take advantage of our free returns."
+        },
+        {
+            "party": "agent",
+            "turn": "Our return policies are based on your membership level. Gold member have unlimited returns, silver can return for 6 months and bronze can make returns within 90 days."
+        },
+        {
+            "party": "agent",
+            "turn": "I would imagine that location will be open relatively soon, but until then you can always order from our website"
+        }
+    ],
+    "63": [
+        {
+            "party": "agent",
+            "turn": "Okay. You said you are wanting to return your jacket, do you mind telling me the reason?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you trying to check the status or did you hear that it was removed?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can look in to this for you. What were you wanting to know about your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "Alright, you would like to change when an item is shipped?"
+        },
+        {
+            "party": "agent",
+            "turn": "What would you like me to check?  The subscription status?"
+        },
+        {
+            "party": "agent",
+            "turn": "and do you have an order ID for the shirt you're looking to wash?"
+        },
+        {
+            "party": "agent",
+            "turn": "What question do you have about your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok, I can look into that for you. Did the email say that you were receiving more than 2 shirts?"
+        },
+        {
+            "party": "agent",
+            "turn": "What about your subscription status would you like me to look into?"
+        },
+        {
+            "party": "agent",
+            "turn": "So you would like me to check your subscription status?"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, are you checking on the address for your account or a specific order?"
+        },
+        {
+            "party": "agent",
+            "turn": "OK. What did you want to find out about the order?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. You want to return a jacket right? What brand?"
+        },
+        {
+            "party": "agent",
+            "turn": "Could you also tell me why you want a refund to be made?"
+        },
+        {
+            "party": "agent",
+            "turn": "are you looking to update your address?"
+        },
+        {
+            "party": "agent",
+            "turn": "by the way do you want to check your subscription status?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can look in to your subscription for you. What exactly were you wanting to know about it?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you, how exactly are you looking to change the shipping date?"
+        },
+        {
+            "party": "agent",
+            "turn": "What do you want to know about your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What item did you want to return?"
+        }
+    ],
+    "64": [
+        {
+            "party": "agent",
+            "turn": "Okay, let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Let me check the status for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me check that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me check that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "OKay, let me just check the system for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me check on that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Let me look into this for you."
+        },
+        {
+            "party": "agent",
+            "turn": "OK. Let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Ok. let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "OK. Let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Let me look into that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "OK, I can look into this for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Let me check on that for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me look into that for you"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me see what I can do for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, let me check."
+        },
+        {
+            "party": "agent",
+            "turn": "let me look into the issue for you"
+        },
+        {
+            "party": "agent",
+            "turn": "OK. Let me check that for you."
+        }
+    ],
+    "66": [
+        {
+            "party": "agent",
+            "turn": "I see you lost your phone. Why can't you log into your account?"
+        },
+        {
+            "party": "agent",
+            "turn": "Since I can't access passwords"
+        }
+    ],
+    "67": [
+        {
+            "party": "agent",
+            "turn": "Can I have them please?"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry, yes to what?"
+        },
+        {
+            "party": "agent",
+            "turn": "Refund on shipping right?"
+        },
+        {
+            "party": "agent",
+            "turn": "What other way?"
+        },
+        {
+            "party": "agent",
+            "turn": "we don't often hear that?"
+        },
+        {
+            "party": "agent",
+            "turn": "Sorry, cookies*?"
+        },
+        {
+            "party": "agent",
+            "turn": "'id*?"
+        }
+    ],
+    "68": [
+        {
+            "party": "agent",
+            "turn": "No proble. I'm not sure why the cart wouldn't update but I'm glad it fixed the problem."
+        },
+        {
+            "party": "agent",
+            "turn": "Oops, looks like it cut off. You have to answer a short questionnaire for Gold."
+        },
+        {
+            "party": "agent",
+            "turn": "great, I'm sure it will look great on you ;)"
+        },
+        {
+            "party": "agent",
+            "turn": "I have no idea, but it's unrelated to us."
+        },
+        {
+            "party": "agent",
+            "turn": "No problem! It happens all the time! Sorry to hear about that though, I was hoping it would be something else"
+        },
+        {
+            "party": "agent",
+            "turn": "Aww, sorry to hear. Why doesn't he like them?"
+        },
+        {
+            "party": "agent",
+            "turn": "Yes, it's a good company though so they are trying not to fire anyone"
+        },
+        {
+            "party": "agent",
+            "turn": "I wish there was more we could do, but you know what they say about small favors"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I have a few tricks that have helped customers in the past, and even myself when I was surfing at home once"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok I understand you. I'll try to spend things up"
+        },
+        {
+            "party": "agent",
+            "turn": "Oh my, well that's definitely much longer than it should take"
+        },
+        {
+            "party": "agent",
+            "turn": "Of course, that'll just take me a second"
+        },
+        {
+            "party": "agent",
+            "turn": "Oh man, you'd be surprised by the amount out there"
+        },
+        {
+            "party": "agent",
+            "turn": "Besides the order ID, I mean."
+        },
+        {
+            "party": "agent",
+            "turn": "People have to get used to the software at home"
+        },
+        {
+            "party": "agent",
+            "turn": "I understand how hard it is to buy for kids, they grow so fast."
+        },
+        {
+            "party": "agent",
+            "turn": "Thats ok. Just didnt want it to time out."
+        },
+        {
+            "party": "agent",
+            "turn": "I've asked our greatest seers"
+        },
+        {
+            "party": "agent",
+            "turn": "Yes, but she's currently very busy with a lot of other calls."
+        },
+        {
+            "party": "agent",
+            "turn": "You don't need to be hard on yourself"
+        }
+    ],
+    "69": [
+        {
+            "party": "agent",
+            "turn": "1edc8687tg3j"
+        },
+        {
+            "party": "agent",
+            "turn": "s4g55ff67q"
+        },
+        {
+            "party": "agent",
+            "turn": "9ab1ikajp7"
+        },
+        {
+            "party": "agent",
+            "turn": "50g6xzd8tfx"
+        },
+        {
+            "party": "agent",
+            "turn": "0oupzv0ivv9"
+        }
+    ],
+    "71": [
+        {
+            "party": "agent",
+            "turn": "Great, your identity has been verified and I am going to check out the issue."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I have redone the purchase and  you should get it tomorrow"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I've found your purchase in the system."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I have located your account with us"
+        },
+        {
+            "party": "agent",
+            "turn": "Thats is okay, I have your account pulled up. Next to confirm you want to cancel this order for a refund?"
+        },
+        {
+            "party": "agent",
+            "turn": "I have successfully verified your identity. Let me check on your subscription status for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Great, I have placed that order for you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. I'll locate the refund and find the status for you now."
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks, I have verified your ID."
+        },
+        {
+            "party": "agent",
+            "turn": "I have cancelled your order for you and you should be receiving confirmation by email."
+        },
+        {
+            "party": "agent",
+            "turn": "Alright, I was able to validate your order."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I have successfully updated everything."
+        },
+        {
+            "party": "agent",
+            "turn": "Ok, I have verified your account."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I found the order."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I've made the purchase, and I hope you get it soon."
+        },
+        {
+            "party": "agent",
+            "turn": "Ok. It was added to your order successfully."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!  Everything looks good I will update your info now."
+        },
+        {
+            "party": "agent",
+            "turn": "I just need your order ID to verify your identity and we can go ahead with getting the bill payed."
+        },
+        {
+            "party": "agent",
+            "turn": "OK, I have updated your refund to include the jeans as well."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, that is good to hear! I am going to credit back the shipping fee to your account. Thank you for your loyalty."
+        }
+    ],
+    "72": [
+        {
+            "party": "agent",
+            "turn": "Oh no, that is so frustrating. Is it everything on the website? Not one problem?"
+        },
+        {
+            "party": "agent",
+            "turn": "or is it just so slow nothing is loading"
+        },
+        {
+            "party": "agent",
+            "turn": "and is it the search function that's giving you the most trouble today, or is it the whole site that's giving you spinning wheels?"
+        }
+    ],
+    "73": [
+        {
+            "party": "agent",
+            "turn": "Thanks, Mr Bouchard"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks, Mr. Bouchard"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your question Mr. Bouchard?"
+        }
+    ],
+    "76": [
+        {
+            "party": "agent",
+            "turn": "Okay, one moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you one moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, one moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, one moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Give me a moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, one moment."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you, one second."
+        },
+        {
+            "party": "agent",
+            "turn": "Hold one moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "A moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Great! One moment please."
+        },
+        {
+            "party": "agent",
+            "turn": "Give me one moment to check please."
+        },
+        {
+            "party": "agent",
+            "turn": "sure. one moment please"
+        }
+    ],
+    "77": [
+        {
+            "party": "agent",
+            "turn": "Can I get your log in name, the email tied to your account, and your zip code please?"
+        },
+        {
+            "party": "agent",
+            "turn": "And for verification purposes can I have your email and zip code?"
+        },
+        {
+            "party": "agent",
+            "turn": "I apologize but I am unable to verify your phone number and PIN number. Can you please tell me your username and password instead?"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, we can reset your 2f auth. I will need either your full name or account ID and your email address."
+        },
+        {
+            "party": "agent",
+            "turn": "No problem! I will need a few items to help verify your identity. Can I have your zip code, telephone number, and pin number please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you for that information.  Can I have your account pin number?"
+        },
+        {
+            "party": "agent",
+            "turn": "thanks Sanya. Can you please let me know your zip code and phone number to verify your identity?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks Alessandro. To verify your identity can I get your zip code and phone number?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you also provide me with your phone number and email address"
+        },
+        {
+            "party": "agent",
+            "turn": "I'll just need to verify your identity quickly. Can I get your zip code, phone number, and PIN number?"
+        },
+        {
+            "party": "agent",
+            "turn": "May I Have your email address? we will use that to reset your two factor authorization"
+        },
+        {
+            "party": "agent",
+            "turn": "I am so sorry to hear you lost your phone.  Do you need to get your username and password or do you have one of them?"
+        },
+        {
+            "party": "agent",
+            "turn": "Also could i get your current zip code, and account username for you?"
+        },
+        {
+            "party": "agent",
+            "turn": "In order to get this done I'll also need your username. Do you have it available?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks Joseph. To verify your identity could I get your zip code and phone number?"
+        },
+        {
+            "party": "agent",
+            "turn": "May I have your zip and phone number?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you provide me with your zip code, and phone number"
+        },
+        {
+            "party": "agent",
+            "turn": "I will need to make a new password. Can I have your PIN number?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. As stated before I will need to create a new password since I cannot access the old one. But first may I please have your pin or security question answer?"
+        },
+        {
+            "party": "agent",
+            "turn": "We'll need to reset by email by code.  Do you happen to know your email?"
+        }
+    ],
+    "79": [
+        {
+            "party": "agent",
+            "turn": "Thank"
+        },
+        {
+            "party": "agent",
+            "turn": "great"
+        },
+        {
+            "party": "agent",
+            "turn": "great"
+        },
+        {
+            "party": "agent",
+            "turn": "Great"
+        },
+        {
+            "party": "agent",
+            "turn": "completely"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks"
+        },
+        {
+            "party": "agent",
+            "turn": "thanks"
+        },
+        {
+            "party": "agent",
+            "turn": "thanks"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks"
+        },
+        {
+            "party": "agent",
+            "turn": "Done"
+        },
+        {
+            "party": "agent",
+            "turn": "Done"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok"
+        },
+        {
+            "party": "agent",
+            "turn": "ok"
+        },
+        {
+            "party": "agent",
+            "turn": "ok"
+        },
+        {
+            "party": "agent",
+            "turn": "ok"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok"
+        }
+    ],
+    "80": [
+        {
+            "party": "agent",
+            "turn": "out of delivery"
+        },
+        {
+            "party": "agent",
+            "turn": "It doesn't say order received or in transit?"
+        },
+        {
+            "party": "agent",
+            "turn": "such as in transit, order recieved, out for delivery"
+        }
+    ],
+    "81": [
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands.  How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands.  How can I help today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrands. How can I help you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you for contacting AcmeBrands. How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello and thank you for contacting AcmeBrand. How may I help you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello and thank you for contacting AcmeBrands! How can I assist you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello and thank you for contacting AcmeBrands! How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrand. How may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrand. How may I help you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, thank you for contacting AcmeBrand. How may I help you?"
+        }
+    ],
+    "82": [
+        {
+            "party": "agent",
+            "turn": "great have a nice day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        },
+        {
+            "party": "agent",
+            "turn": "Have a great day!"
+        }
+    ],
+    "85": [
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is your membership level?"
+        }
+    ],
+    "86": [
+        {
+            "party": "agent",
+            "turn": "Thank you! Your email address on file is jbanter327@email.com."
+        },
+        {
+            "party": "agent",
+            "turn": "Sure. It's SAfzal@email.com"
+        },
+        {
+            "party": "agent",
+            "turn": "http://www.AcmeBrands.com/faq"
+        }
+    ],
+    "87": [
+        {
+            "party": "agent",
+            "turn": "I couldn't find your order but I think you gave me the same order number twice"
+        },
+        {
+            "party": "agent",
+            "turn": "It was supposed to be one pair but it shows two?"
+        }
+    ],
+    "89": [
+        {
+            "party": "agent",
+            "turn": "Wow!  Thanks for all of the info!  Very helpful."
+        },
+        {
+            "party": "agent",
+            "turn": "well thanks for your understanding"
+        },
+        {
+            "party": "agent",
+            "turn": "Fantastic, give that a try.  Thank you.,"
+        },
+        {
+            "party": "agent",
+            "turn": "Great. Thanks for being a wonderful customer."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you so much for your patience."
+        }
+    ],
+    "90": [
+        {
+            "party": "agent",
+            "turn": "Thank you I just sent the reset code of the 2 factor auth. With it you should now be able to get into your account. I will also send you a linke about how to practice  the best security measures."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. Your new password is el84sonm1gj. Once you log in, you can change to something more memorable for yourself."
+        },
+        {
+            "party": "agent",
+            "turn": "Perfect! I will go ahead and send a link to you now. I am also going to attach a link that teaches you more information about security best practicies."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. In addition to the code, I will send a link about some security practices you can use to protect your account and information."
+        },
+        {
+            "party": "agent",
+            "turn": "1mvo2j52lmc is your new password, it is in best practice to change it after logging in."
+        },
+        {
+            "party": "agent",
+            "turn": "I've generated a promo code that will give you $40 off your next purchase. The code is: D71JX"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks.  The code has been sent to your email.  I'm also sending you a security best practices link so you can learn to secure your account."
+        },
+        {
+            "party": "agent",
+            "turn": "I'm goign to go ahead and generate a temporary password for you to use to log in. Be sure to change it in your profile."
+        },
+        {
+            "party": "agent",
+            "turn": "Your new password is 81bp74huikr. You can change it once you access your account."
+        },
+        {
+            "party": "agent",
+            "turn": "Great! I am going to generate another promo code for you"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, i have sent you the reset code. I will also send you a link about the best security practices."
+        },
+        {
+            "party": "agent",
+            "turn": "it looks like there is a blance of $14 due today. i am also sending a link to you to access this in the future with your username, if you do not know your username, it is czhang1"
+        },
+        {
+            "party": "agent",
+            "turn": "I will send you a link so you can verify your status anytime in the future. You just need your username."
+        },
+        {
+            "party": "agent",
+            "turn": "Here is a promo code to use on your order.  YE3QK"
+        },
+        {
+            "party": "agent",
+            "turn": "happy to help with that. we can rest by sending a code to your email. will that work for you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Great, here is the discount code that you can enter on the checkout page for your next purchase: GSJII."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you, now for your password I can generate a new one for you. I'll need the email associated with the account."
+        },
+        {
+            "party": "agent",
+            "turn": "I will create a new username for you now"
+        },
+        {
+            "party": "agent",
+            "turn": "Since I have your username, I can start the next step. Please note I won't be able to recover your old password, but I'm going to give you a new temporary password that you can then change to whatever you would like. For security, we recommend doing"
+        },
+        {
+            "party": "agent",
+            "turn": "I have sent you an email with a pin in it to reset your account"
+        }
+    ],
+    "91": [
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need help with?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else you need help with?"
+        },
+        {
+            "party": "agent",
+            "turn": "Did you need anything else?"
+        },
+        {
+            "party": "agent",
+            "turn": "Do you need anything else?"
+        },
+        {
+            "party": "agent",
+            "turn": "Do you need anything else?"
+        },
+        {
+            "party": "agent",
+            "turn": "Do you need anything else?"
+        }
+    ],
+    "92": [
+        {
+            "party": "agent",
+            "turn": "Thank you, can I have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks! Can I have your account ID and order ID to look up your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I also have your account id and order id?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your Account ID and your Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "And can I have your account ID and Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "And can I have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "May I have your account ID and apparent Order ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you Crystal.  Can I have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your account ID and Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your Account ID and Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your account ID and Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your account ID and Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "I will also need your Account ID and Order ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "may I have your account DI and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "May I also have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "May I also have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "May I also have your account ID and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have the Account ID and Order Id also?"
+        }
+    ],
+    "93": [
+        {
+            "party": "agent",
+            "turn": "is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is there anything else I can help you with today?"
+        }
+    ],
+    "94": [
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that.  May I have your full name please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, I can help you with that.  May I please have your full name or Account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I'd be glad to help you. Can I please have your full name and account number?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that.  May I have your name please?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can check on this for you. May I have your full name or account id please?"
+        },
+        {
+            "party": "agent",
+            "turn": "sorry about that, but I can check more information for you. May I have your full name please?"
+        },
+        {
+            "party": "agent",
+            "turn": "No problem, I can help you with that. May I have your full name?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can check into this for you. May I have your full name or account id please?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can look into that for you. Can I please have your name, account ID, and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "I'll check that for you. May I have your full name or Account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that. Could I please have your name and account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay , I can check on that for you. Can I have your account number and full name?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that. Can I have your full name, account ID, and order ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, I can help you with that. May I have your full name?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can certainly help you with that. Can I please have your full name?"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sure I can help you with that. Can I please have your Full name or User Name please?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can help with you. May I please get your full name name or account number?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can help you with that. May I have your full name?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can help you with that. May I have your full name?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can certainly help you with that. Can I please have your full name and username?"
+        }
+    ],
+    "95": [
+        {
+            "party": "agent",
+            "turn": "hi, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hi, How can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "hi, how can i help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how can I help you today?"
+        }
+    ],
+    "96": [
+        {
+            "party": "agent",
+            "turn": "Hello, are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "hi are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you there?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, are you still here?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello?"
+        }
+    ],
+    "97": [
+        {
+            "party": "agent",
+            "turn": "It looks like we'll have to process your refund as a return after your receive the item. I am so sorry for this inconvenience!"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry, shipping seems to no longer be included. But I will fix this."
+        },
+        {
+            "party": "agent",
+            "turn": "I'm so sorry,but I cannot do anything for you at this time since the error was not on our end."
+        },
+        {
+            "party": "agent",
+            "turn": "Unfortunately, since you aren't a member, I cannot issue a refund today. The reason for this is that we risk issuing two refunds, since the refund might have already been sent. What I advise you to do is look at your order and find out exactly when y"
+        },
+        {
+            "party": "agent",
+            "turn": "I am glad that your issue is resolved, and I apologize again for the inconvenience you experienced. I will make sure to write up a report and notify   our website team."
+        },
+        {
+            "party": "agent",
+            "turn": "Unfortunately, as a guest, I cannot do anything to ship it out automatically for you. You will need to place a new order. I apologize for the inconvenience."
+        },
+        {
+            "party": "agent",
+            "turn": "Sorry, it does not look like you are eligible for a refund. I do not see an issue with the order in our systems."
+        },
+        {
+            "party": "agent",
+            "turn": "It looks like there is an error on our end, I do apologize. I have created a new code for you: U2II4"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry but I am unable to assist you with that. This is an issue you would probably want to contact the delivery service about."
+        },
+        {
+            "party": "agent",
+            "turn": "I am sorry, I cannot do so until it has been over a week. The email you got that it came was also shown to be incorrect by our system."
+        },
+        {
+            "party": "agent",
+            "turn": "It's telling our system you should still get it any-day now. I cannot issue a new order at this time."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, it looks like the shipping address is in fact wrong on this order. I'm sorry about that. But I will be happy to change it in the system."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you very much, now Mr. Joyce regarding your question I am sorry for the inconvenience but sometimes the algorithm of our website makes price corrections in some products."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you Now i need to check if the system has made a mistake with your order."
+        },
+        {
+            "party": "agent",
+            "turn": "I am sorry, since the order has already been delivered I cannot add anything to it. You may start a new order if you wish to buy something else"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry about this. I can offer you a promo code to use on the item."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I'll check with our IT department.  The email itself might have been a mistake"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm very sorry about that, I'll check to see why these jeans are showing an expensive price for you."
+        },
+        {
+            "party": "agent",
+            "turn": "well, I hope that you get the shipment with no trouble. WE can arrange for a refund of the shipping charge if there is an issue"
+        },
+        {
+            "party": "agent",
+            "turn": "I'm very sorry about that, we can only offer full refunds if the status is \"Order Received\" or \"In transit\", so it's important to get in contact with us as soon as you notice an error with the cost."
+        }
+    ],
+    "98": [
+        {
+            "party": "agent",
+            "turn": "I'm sorry for the issues. Since you are in a hurry, I can make the purchase for you. Can you give me your Credit Card #, Expiration Date, and the item you want to buy?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay i've sent you a link with the shipping label to your email on the account. Just send it back and we can refund your purchase. Is there anything else i can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, it will ship immediately when it becomes available. Should I use the card we have on file?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, we can take that stained shirt back for a full refund.  You can either return it to a local store, to a drop-off center, or I can send you a shipping label so that you can send it back through the mail.  Which of those would you prefer?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, so sorry.  Would you like to make a payment with the credit card you have on file with us?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, i have sent the link with the label to your account. You can  return it in store by mail or at a pickup centre. Is there anything else i can help you with today"
+        },
+        {
+            "party": "agent",
+            "turn": "Once you get that shipping label, how would you like to send that back to us? We have several options available."
+        },
+        {
+            "party": "agent",
+            "turn": "I can notify our purchasing team about this. In the meantime would you like me to place the item on back-order for you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Great, we can upgrade your order to overnight shipping.  The cost will be $20 - will it be ok if I charge that to your credit card on your account?"
+        },
+        {
+            "party": "agent",
+            "turn": "Would you like me to place a back-order for you?  The item can be shipped to you as soon as it becomes available."
+        },
+        {
+            "party": "agent",
+            "turn": "Congrats to your son! You can make the return within 30 days of purchase and it looks like you still have some time to make the return. I can sent you a shipping label if you provide me with your mailing address."
+        },
+        {
+            "party": "agent",
+            "turn": "ok, the label will be sent to your email to print out, shipping included. please return the item to us and we will refund your purchase to the payment method used"
+        },
+        {
+            "party": "agent",
+            "turn": "Alright, and how would you like this refund? We can give you credit on your account, gift cards, paper check, or refund to credit card on file."
+        },
+        {
+            "party": "agent",
+            "turn": "Alright, how would you like to return them, by mail? If so, please give me the address for the return label."
+        },
+        {
+            "party": "agent",
+            "turn": "I'm sorry! I can back order the item for you so it ships when we get it back in stock. Would you be interested in that?"
+        },
+        {
+            "party": "agent",
+            "turn": "Excellent! Our gold members get unlimited returns on their orders. I can sent you an shipping label for the return if you provide me with your full mailing address."
+        },
+        {
+            "party": "agent",
+            "turn": "Great, we can return may I have your address since you will need to print out a label for return."
+        },
+        {
+            "party": "agent",
+            "turn": "OK, I have refunded the amount of 59 dollars to your credit card on file. Is there anything else I can do for you?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I would happy to help. Do you need to cancel this order and/or save on fees?"
+        },
+        {
+            "party": "agent",
+            "turn": "Since you are a valued member, I can offer 8 refund for shipping cost. Will this work?"
+        }
+    ],
+    "99": [
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "THank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you."
+        }
+    ],
+    "100": [
+        {
+            "party": "agent",
+            "turn": "You are very welcome.  Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome! Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're very welcome! Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're very welcome! Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome.  Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome.  Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome! Is there anything else I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome! Is there anything else I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks, I've updated your order. Is there anything else I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome. Is there anything else I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome. Is there anything else I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome. Is there anything else I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "Great, I have updated your shipping to overnight.  Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're all set! is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "you're very welcome! Is there anything else i can do for you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're so welcome.  Is there anything else I can help you with today?"
+        },
+        {
+            "party": "agent",
+            "turn": "You're welcome. Is there anything else that I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You are welcome. Is there anything else that I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You are welcome. Is there anything else that I can help you with?"
+        },
+        {
+            "party": "agent",
+            "turn": "You are welcome. Is there anything else that I can help you with?"
+        }
+    ],
+    "101": [
+        {
+            "party": "agent",
+            "turn": "Can I please also get your username, email address and the order id?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks, can I have your username, email address and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks, can I have your username, email address and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your username, email address and order id to verify your purchase?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, can I have your username, email address, and Order ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks, can I have your username, email address and order number?"
+        },
+        {
+            "party": "agent",
+            "turn": "To validate your purchase, can I have your username, email address and order id please?"
+        },
+        {
+            "party": "agent",
+            "turn": "And can I have your username, email address, and the order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. Can I also get your username, email address, and order ID"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your username, email, and order ID also?"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, can I have your username, email, and order ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I please have your username, email address and order number?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your username, email address, and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your username, email address, and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "may I also get your username, email, and order id"
+        },
+        {
+            "party": "agent",
+            "turn": "Fantastic.  May I have your username, email address and this Order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok, can I have your username, email address, and the order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you Rodriguez, can you also give me your username, email address, and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Now, can I please have your username, email address, and order ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you may I please have your username, email address, and Order ID?"
+        }
+    ],
+    "102": [
+        {
+            "party": "agent",
+            "turn": "You too"
+        },
+        {
+            "party": "agent",
+            "turn": "You too"
+        },
+        {
+            "party": "agent",
+            "turn": "You too"
+        },
+        {
+            "party": "agent",
+            "turn": "You too!"
+        },
+        {
+            "party": "agent",
+            "turn": "You too!"
+        },
+        {
+            "party": "agent",
+            "turn": "You too!"
+        },
+        {
+            "party": "agent",
+            "turn": "You too."
+        },
+        {
+            "party": "agent",
+            "turn": "You too."
+        },
+        {
+            "party": "agent",
+            "turn": "You too."
+        },
+        {
+            "party": "agent",
+            "turn": "You too."
+        }
+    ],
+    "103": [
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of the order you want to check?"
+        },
+        {
+            "party": "agent",
+            "turn": "And what is the shipping status on your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you, and what is the shipping status?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "and what is the status of your shipment?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks! What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "and what is the shipping status on the shipment?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you! What is the shipping status of your order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the sipping status of the existing order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of the order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of the order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of the order?"
+        },
+        {
+            "party": "agent",
+            "turn": "What is the shipping status of the order?"
+        }
+    ],
+    "104": [
+        {
+            "party": "agent",
+            "turn": "thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you!"
+        },
+        {
+            "party": "agent",
+            "turn": "Thanks!"
+        },
+        {
+            "party": "agent",
+            "turn": "thanks!"
+        },
+        {
+            "party": "agent",
+            "turn": "thanks!"
+        },
+        {
+            "party": "agent",
+            "turn": "thanks!"
+        },
+        {
+            "party": "agent",
+            "turn": "great!"
+        },
+        {
+            "party": "agent",
+            "turn": "great!"
+        },
+        {
+            "party": "agent",
+            "turn": "Great!"
+        },
+        {
+            "party": "agent",
+            "turn": "Great!"
+        },
+        {
+            "party": "agent",
+            "turn": "Great!"
+        },
+        {
+            "party": "agent",
+            "turn": "Great!"
+        },
+        {
+            "party": "agent",
+            "turn": "Great, thank you!"
+        }
+    ],
+    "105": [
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "hello"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello"
+        }
+    ],
+    "106": [
+        {
+            "party": "agent",
+            "turn": "That's no problem."
+        },
+        {
+            "party": "agent",
+            "turn": "ok, that will be all then"
+        }
+    ],
+    "107": [
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can i have your full name or Account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name and account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account iD?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account id?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I please have your full name or account ID?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I please have your full name or account ID?"
+        }
+    ],
+    "108": [
+        {
+            "party": "agent",
+            "turn": "Is it the Calvin Klein shirt?"
+        },
+        {
+            "party": "agent",
+            "turn": "Isn't it Tommy Hilfiger jean?"
+        },
+        {
+            "party": "agent",
+            "turn": "And it's a calvin klein shirt correct?"
+        },
+        {
+            "party": "agent",
+            "turn": "It's Calvin Klein correct?"
+        },
+        {
+            "party": "agent",
+            "turn": "Not sure. Depends on Tommy Hilfiger"
+        },
+        {
+            "party": "agent",
+            "turn": "Guess boots"
+        }
+    ],
+    "109": [
+        {
+            "party": "agent",
+            "turn": "  Okay, I will be happy to help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "I will be happy to help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "I will be glad to help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "I'll be happy to help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Yes, I can help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "I can help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "I can help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I'd be glad to help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Of course, I should be able to help you with that."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that"
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I can help you with that"
+        },
+        {
+            "party": "agent",
+            "turn": "Certainly, I can help you with that"
+        },
+        {
+            "party": "agent",
+            "turn": "yes, I can help with that."
+        },
+        {
+            "party": "agent",
+            "turn": "ok, i can definitely help you with that today"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, I can help you with that."
+        }
+    ],
+    "110": [
+        {
+            "party": "agent",
+            "turn": "This year it started on 1/23 and ended on 1/31."
+        }
+    ],
+    "111": [
+        {
+            "party": "agent",
+            "turn": "Okay, no problem"
+        },
+        {
+            "party": "agent",
+            "turn": "Oh, no problem."
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, no problem"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure, no thing."
+        },
+        {
+            "party": "agent",
+            "turn": "Oh. Okay."
+        }
+    ],
+    "112": [
+        {
+            "party": "agent",
+            "turn": "That's great"
+        },
+        {
+            "party": "agent",
+            "turn": "that's great"
+        },
+        {
+            "party": "agent",
+            "turn": "that's great"
+        },
+        {
+            "party": "agent",
+            "turn": "okay, that's good"
+        },
+        {
+            "party": "agent",
+            "turn": "Oh, that is fine."
+        },
+        {
+            "party": "agent",
+            "turn": "Will that be fine?"
+        },
+        {
+            "party": "agent",
+            "turn": "Does that sound alright?"
+        },
+        {
+            "party": "agent",
+            "turn": "Does that sound good?"
+        },
+        {
+            "party": "agent",
+            "turn": "Does that sound good?"
+        },
+        {
+            "party": "agent",
+            "turn": "That's fine, your name alone will be sufficient"
+        },
+        {
+            "party": "agent",
+            "turn": "In that case it would be 14.97"
+        },
+        {
+            "party": "agent",
+            "turn": "Oh well that's good to hear"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok it would be $ 99"
+        },
+        {
+            "party": "agent",
+            "turn": "Is that acceptable?"
+        },
+        {
+            "party": "agent",
+            "turn": "well that is a bummer"
+        },
+        {
+            "party": "agent",
+            "turn": "That's correct"
+        },
+        {
+            "party": "agent",
+            "turn": "It's possible"
+        },
+        {
+            "party": "agent",
+            "turn": "So that's even better than overnight, right? :)"
+        },
+        {
+            "party": "agent",
+            "turn": "Yes, that's correct."
+        },
+        {
+            "party": "agent",
+            "turn": "Yes, that is correct"
+        }
+    ],
+    "113": [
+        {
+            "party": "agent",
+            "turn": "heh. did it work?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is it working now?"
+        },
+        {
+            "party": "agent",
+            "turn": "Is it working now?"
+        },
+        {
+            "party": "agent",
+            "turn": "Ok, the search bar didn't load?"
+        },
+        {
+            "party": "agent",
+            "turn": "Yeah, sounds weird but it works super well!"
+        },
+        {
+            "party": "agent",
+            "turn": "did it work?"
+        },
+        {
+            "party": "agent",
+            "turn": "Did that work?"
+        },
+        {
+            "party": "agent",
+            "turn": "Did that work?"
+        },
+        {
+            "party": "agent",
+            "turn": "Did that work?"
+        }
+    ],
+    "115": [
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        },
+        {
+            "party": "agent",
+            "turn": "Hello, how may I help you today?"
+        }
+    ],
+    "116": [
+        {
+            "party": "agent",
+            "turn": "hold on, i can find it"
+        },
+        {
+            "party": "agent",
+            "turn": "Done...Extra fee removed"
+        },
+        {
+            "party": "agent",
+            "turn": "Yes..."
+        }
+    ],
+    "117": [
+        {
+            "party": "agent",
+            "turn": "Your subscription is currently active. It looks like your next payment of $49 is due in three days."
+        },
+        {
+            "party": "agent",
+            "turn": "Your subscription is currently active, $20 is due today."
+        },
+        {
+            "party": "agent",
+            "turn": "I can see here that your subscription is not active because it was due yesterday."
+        },
+        {
+            "party": "agent",
+            "turn": "I can see that your subscription is active, and a total of $49 will be due in 3 days."
+        },
+        {
+            "party": "agent",
+            "turn": "You do have an active subscription. However there is an amount due of $14 and it is due today."
+        },
+        {
+            "party": "agent",
+            "turn": "I can see here that your subscription is active, but you have a balance of $49 that was due yesterday."
+        },
+        {
+            "party": "agent",
+            "turn": "It actually looks like you made this payment already. The amount due is 0 dollars and was due yesterday."
+        },
+        {
+            "party": "agent",
+            "turn": "Your subscription is not currently active, and you have an amount of $55 due in three days."
+        },
+        {
+            "party": "agent",
+            "turn": "I show that your subscription status is active and there is a payment of 14 due tommorrow."
+        },
+        {
+            "party": "agent",
+            "turn": "Your subscription is active and there is an amount of $20 due today."
+        },
+        {
+            "party": "agent",
+            "turn": "Alright, you do have an active subscription. You have a payment of 14 dollars due in 3 days."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I see here that you do have a balance of $14.00, due in three days."
+        },
+        {
+            "party": "agent",
+            "turn": "Your subscription is active and the due date is yesterday, Joyce."
+        },
+        {
+            "party": "agent",
+            "turn": "It seems you need to make a payment of $20 for your subscription to be active."
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you for all of that info. Your subscription is active and it looks like you owe $49 in three days. You said you would like to go ahead and pay that today, correct?"
+        },
+        {
+            "party": "agent",
+            "turn": "Your subscription is active, but you do owe $55 today"
+        },
+        {
+            "party": "agent",
+            "turn": "Your amount due is $49 and it is due today."
+        },
+        {
+            "party": "agent",
+            "turn": "Great. I've got everything pulled up. The stand subscription is $99 a year. Do you wish to pay the full amount today?"
+        },
+        {
+            "party": "agent",
+            "turn": "I can see in your account that your account is currently up to date, so I will go ahead and extend the next due date for you"
+        },
+        {
+            "party": "agent",
+            "turn": "Looks like your account is active and you have a $0 balance. Your due date is tomorrow and nothing is owed."
+        }
+    ],
+    "118": [
+        {
+            "party": "agent",
+            "turn": "Can you try logging out and then logging back into our website?"
+        },
+        {
+            "party": "agent",
+            "turn": "can you please first try logging out and in to the website, to see if that fixes the issue?"
+        },
+        {
+            "party": "agent",
+            "turn": "Next, can you try logging out of your account and logging back in. This often helps improve the issue."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, can you please logging out and back into your account and try again?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you try logging in and out of your account, and see if that fixes the problem?"
+        },
+        {
+            "party": "agent",
+            "turn": "First could you try logging out and back into your account to see if that clears up anything?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can I get you to try logging out of your account and then logging back in.That sometimes clears the issue up."
+        },
+        {
+            "party": "agent",
+            "turn": "Okay, I have a couple of tricks we can try to fix the issue. Can you try logging out and back in to see if that works?"
+        },
+        {
+            "party": "agent",
+            "turn": "That is good, can your try logging out and back into your account please?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you try logging out and then in again?"
+        },
+        {
+            "party": "agent",
+            "turn": "but for now, can you please first try logging out and back into the site?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you try logging out and logging back into your account?"
+        },
+        {
+            "party": "agent",
+            "turn": "Thank you. Can you try logging out and then in again?"
+        },
+        {
+            "party": "agent",
+            "turn": "Sure! Could you try logging out and then logging back into your account first?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you try logging out of your account and then logging back in and try it again?"
+        },
+        {
+            "party": "agent",
+            "turn": "Could you log out and then log back in, and try to search again?"
+        },
+        {
+            "party": "agent",
+            "turn": "Let's try a couple solutions to that. Can you try logging out of your account and then logging back in?"
+        },
+        {
+            "party": "agent",
+            "turn": "Can you log out and then log back in and try your search again?"
+        },
+        {
+            "party": "agent",
+            "turn": "Are you logged into an account? If so, you can try logging out and logging back in."
+        },
+        {
+            "party": "agent",
+            "turn": "First could you try logging out and back into your account for me?"
+        }
+    ],
+    "119": [
+        {
+            "party": "agent",
+            "turn": "0707 Brushwick Dr Baltimore - would be the new address for shipping?"
+        },
+        {
+            "party": "agent",
+            "turn": "b141-889b"
+        },
+        {
+            "party": "agent",
+            "turn": "777211"
+        },
+        {
+            "party": "agent",
+            "turn": "9493I"
+        }
+    ]
+}

@@ -1,0 +1,3796 @@
+{
+    "0": [
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        }
+    ],
+    "1": [
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        }
+    ],
+    "2": [
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        }
+    ],
+    "3": [
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        }
+    ],
+    "4": [
+        {
+            "party": "buyer",
+            "turn": "how much <price>_0.5",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "how about <price>_0.4 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok can you go <price>_0.0 or is <price>_0.0 final offer",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok i will do the <price>_0.7",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "can we agree on <price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "can you do <price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "how about <price>_0.2 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<price>_0.4 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i can do <price>_0.2",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<price>_0.0 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "will you accept <price>_0.5 ? i can buy it in the next <price>_0.5 hours .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok <price>_0.4 is good",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "would you meet me at <price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "<price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i can do <price>_0.5",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes . would you accept <price>_0.7 for it ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "how about <price>_0.0 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "how about <price>_0.0 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i can go <price>_0.3 delivered .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "is <price>_0.0 okay ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        }
+    ],
+    "5": [
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        }
+    ],
+    "6": [
+        {
+            "party": "buyer",
+            "turn": "nice so it sounds like a good piece of equipment that will work for me but are you willing to take <price>_0.0 for it instead of the asking price of <price>_0.0 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "sorry i thought it said <price>_1.8 <price>_1.8 lol . would you accept <price>_1.8 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "oh i was hoping the <price>_0.0 was for both i thought it was about <price>_0.0 per bike .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "nice room . so <price>_0.0 right ? half off new ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        }
+    ],
+    "7": [
+        {
+            "party": "buyer",
+            "turn": "i know you said you wanted <price>_0.2 but i can only offer <price>_0.2 . will you take that if i am able to come to you ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes i am interested . i m prepared to offer you <price>_0.0 for the set . i ll have to walk <price>_0.0 miles since my old bike was stolen . deal ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i think i can deal with transportation . how about <price>_0.0 for it ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yeah . ok . i ll do <price>_0.7 if you re willing to deliver it to me . how about that ?",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i ll take it off your hands for <price>_-2.0 . i ll come myself take it today . i am ready to roll for today for <price>_-2.0",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well the price is s lightly high for used couches would you come down to <price>_0.0 if i also picked them up ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "would you take a lower price ? i d pay <price>_-1.5 cash today",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i m willing to offer you <price>_-1.6 since it used",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i will scrape together another <price>_0.1 by saturday and pick it up then . it s a deal at <price>_0.1 .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "could we do <price>_-0.1 if i pick it up at your location and load it myself ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "the list price is <price>_-0.2 would you consider i pay <price>_-0.2 if i am willing to come pick it up ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "would you be willing to let me buy it for <price>_-0.2 dollars ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "understnable . so i m willing to give you <price>_0.0 cash money today and i ll even come pick it up from you .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well could you deliver it if i pay the <price>_0.7 ?",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "the add shows an asking price of <price>_0.5 i almost felt ripped off when you asked for <price>_0.5 . can you meet in between at <price>_0.5 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "could you give to me for <price>_0.5 if i offer to pick it up ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes but that s too high . i d give you <price>_-0.1 for this .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that is out of my budget . can you do <price>_-0.6 in cash ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok that works good because i m looking to move in asap . would you accept <price>_-0.2 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that is pretty heavy but i am willing to pick it up . would you take <price>_0.2 for it",
+            "dialog_act": [
+                "init-price"
+            ]
+        }
+    ],
+    "8": [
+        {
+            "party": "buyer",
+            "turn": "that s good . i m in a place right now i know exactly what my neighbors are watching on tv . okay i want the apartment but could we get the price down . i m good at lawn maintenance . if i took care of lot would you be willing to cut the price to say . . . <price>_-0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok thanks for that . lets discuss price . im on a tight budget with the current vehicle i own . im still trying to get rid of it . is there a better price we can negotiate partner ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well it would just be my wife and me . it will be nice to have the guest room too . we have no pets . everything else about it sounds great except that we have to commute to the city for work . we were thinking something more along the range for a suburban home",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ah so we have to type back and forth . well the valley plaza villages is centrally located in pleasanton which means quick access to all of the wonderful things in town . we have wonderful amenities as well ! unfortunately our list price was <price>_2.0 . maybe we can negotiate that down a little bit say <price>_2.0 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello you have a rare titanium sampson kalispell road bike ? this is correct right ? how flexible are you on this price ? i have always wanted one of these for my collection !",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that all sounds great but like i said i am limited by a very very low budget . i can forego the new countertop though if it means a fairer price .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that is not a bad price for a phone like this . is it unlocked ? any dents scratches or dings ? and why is the picture only showing the back of the phone ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay thank you . i really hope you can get him down more . like i said i would be a long term renter and i pay on time every month .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i can pickup myself no problem . i was looking around for offers for the same headphones and the range is . you overpaid for the product",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that is great ! i m really not looking for a coffee table but i m sure they are also very nice . can we do <price>_0.3 ? i m already over my budget i agreed on with my husband . . .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "what about utilites ? are they included ? is a bit outside of the price range so im trying to find a way to make this work for us because the property looks stunning !",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello i just seen your ad for the ethan allen dresser . i love it it would be perfect for my new apartment . are there any dings dents or scratches on it ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay i didn t really want to part with this but i see that you re looking for something very special and rare . i just so happen so have something that you may consider . these are special herbs from overseas and you cannot get them in usa . these are coming from an ancient culture of indigenous peoples . i met the shaman of the people and he gifted for me several pounds of this different types of herbs i could part myself with 2lbs of this one that is very good for you and then give you <price>_0.4 ? will this work for you ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i have a great deal of experience with landscaping is it possible to negotiate a deal where i maintain the property for a deduction in the monthly rent ? i can assure you my work is excellent and i can refer you to previous clients",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok that s good . i feel that is a bit high though . of course i do understand that it is a and has industry standard mileage . would you consider coming down on the price some ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "thats great to hear . well i do have two little kids . one is 3 and the other is 2 . my husband is the only one working at the moment so needless to say were on a tight budget . will you take <price>_-2.0 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "thank you . well i had a nutritionist and fitness trainer tell me they could help me reach my goals for <price>_-0.4 total but the problem with that is that they are saying it will take them a whole year to make all my fat go away . i would be willing to pay something extra if i could find something that i knew would work for me . .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "all great sounding . what finish is the wood ? i just want to make sure it matches the rest of my furniture ? mahogany ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hey can you tell me a little more about the apartment s lease terms ? are they negotiable ? i m a stanford student and we re on the quarter system so i would need the lease to continue through the end of june instead of the end of may .",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well do you htink you can come down slightly in price ? your add did say the owner that woudl be you pays water garbage sewer and heat and you said now you don t pay that so can youcome down to make up for that difference ?",
+            "dialog_act": [
+                "vague-price"
+            ]
+        }
+    ],
+    "9": [
+        {
+            "party": "buyer",
+            "turn": "hi i m considering buying your bike . is it brand new ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello i am interested in the cabinets you have listed .",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hey i m interested in the bicycle you posted . is it still available ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello ! i am inerested in the beetle . how many miles does it have ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi i am interested in the car you have advertise",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi there . you still showing the house ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello . yes i am . whats so special about yours ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi ! how are you ? i m interested in the tubeless tire kit you have available .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hey i minterested in the speakers can you tell me about them ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi i m interested in buying this . how many devices can it charge at a time ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "sorry about that last message i hit the wrong button there . yes i am interested in your charger is it new or how is the condition of it ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i m interested in your bicycle . are you the original owner ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello there i am interested in your item for sale .",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello are you still selling the iphone ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "are you interested in purchasing the iphone ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hey i am instrested in this item does it record videos as well ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi i am interested in the theater seats what are you asking",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i am good . are you in the market for new vehicle ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi ! is the monitor stil for sale ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hi there i saw your post on a used dining table . what is the listing price ?",
+            "dialog_act": [
+                "intro"
+            ]
+        }
+    ],
+    "10": [
+        {
+            "party": "buyer",
+            "turn": "ok . deal !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay thanks we have a deal .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "perfect ! thanks",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "awesome thank you !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok that is a good offer . thanks !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "great ! thanks .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that sounds great . deal !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "deal ! thanks",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that s perfect lets do it !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "oh boy thanks !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "perfect thanks !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay that will work . thanks a lot !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "awesome it s a deal .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay thats a deal !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "sounds good deal",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "oh free delivery that s always good . alright i ll take it !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well works for me . i can do it today itself . thanks",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "great thanks a lot !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok sounds good !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that works for me ! i ll make the offer now .",
+            "dialog_act": [
+                "unknown"
+            ]
+        }
+    ],
+    "11": [
+        {
+            "party": "buyer",
+            "turn": "hmm ok . it says it s like new but years old could possibly warrant a slightly lower price ? are you open for negotiation ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i see it look perfect . i m willing to buy it today if it comes with free shipping ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "are willing to negotiate with the price quite a bit ? i don t want to waste your time if you re stuck on the list price but i would love to look into your home . it looks lovely .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well now im sure ill love it . would you be willing to knock down the price ? i work at american airlines cand could get you a discount or even more .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that sounds great ! i really want to buy this bike but i don t think i can afford the full price . any chance you can lower it a bit for me ? i will give you homemade cookies in exchange .",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay how about and i ll take only one of the otter box cases . i ll also drive all the way and pick it up wherever you are sound good ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "oh got it . okay so since you need to get rid of it what s the lowest you are willing to get away for it ?",
+            "dialog_act": [
+                "vague-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i am interested in your end table however it seems kind of expensive given it is used . can you come down a bit ?",
+            "dialog_act": [
+                "vague-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok . i m not sure i can do for a used bike would you consider negotiating on the price ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that seems likre a reasonable price . any other defects that weren t noted ? do you know the chain size as well so i can pick one of thoe up ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "the monthly price is a bit steep are you able to negotiate ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i can come by today if it is not an issue . how much would you like for it ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "great ! my only issue then is with the pricing are you open to negotiate or no ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well you need to write more it won t be accepted . we need to work on the deal and all . are you going to deliver it to me ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i agree delivery would be hard so i accept your offer .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "my bike has . handle bars . in the chance that they do not fit would you accept a return ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "okay sure . will you be able to deliver it to me ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "it looks like it s in decent shape but a little older style then i like . would you be willing to lower the price ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i will take that deal if you can also give me some advice on the best way to use it .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well since its new i can take that . would you be willing to ship it to me ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        }
+    ],
+    "12": [
+        {
+            "party": "buyer",
+            "turn": "great i love a nice kitchen . is it furnished by chance ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hello ! yes i am . can you tell me a little more about it though . like what color is it ? how long have you had it and how much has it been ridden ? any dents dings or scratches on it ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "is it an older chair or newer ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes im interested in your bike that s for sale . . . is anything wrong with it ? how long have you owned it ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i am looking to buy pretty quickly . what year is it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i am is this an appropriate size bike for me ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "it looks nice . what was the original price you posted on the ad ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "does it clean easily ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "thank you how new is it too ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "no . does this come with lights cable or internet ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes very how old is it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "what is the condition ? new used ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "does it have good batteries ? any scratches ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes can you tell me how old the chairs are ? and i am unclear on the price the photo shows chairs is the price for all or for each one ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes i am ! about how old is it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "would you say it is in good condition ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes i am the first could you tell me what kind of condition is it in is there any damage ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "is it new are used",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ahh too bad . so what kind of shape is the bike in ? is anything damaged ? any scratches or anything like that ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hope the move goes smoothly ! what condition would you say the chairs are in ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        }
+    ],
+    "13": [
+        {
+            "party": "buyer",
+            "turn": "lets leave it at <price>_0.5 since i will be coming over to pick it up and i will be offering cash too . this is above my budget but can stretch to <price>_0.5 anyway . do we have a deal ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "well at <price>_0.7 i can t afford to buy any sheets that would fit the matress . could you throw in a few sheets and i would be wiling to go the <price>_0.7",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i d step up to <price>_0.0 if that would help you out at all but i just can t see going any higher on something that might brick on me the first time i try to use it . so <price>_0.0 and i d be willing to come pick it up so you don t have to mail it .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok great i need 6 so that will work ! <price>_-2.0 is a little out of my price range . i m assuming it is pretty heavy i can come get it and load it myself tonight if you d be willing to accept <price>_-2.0 .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes i am only there is no picture of the product so i m very wary of your asking price without any images no offense . i was hoping i could buy them for <price>_0.1 .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "honestly that amount is a lot more than i m comfortable with since i m on student loans . but since you re willing to change up the lease terms regarding move in and move out date i can be a little flexible . could you do <price>_0.7 from all four of us per month ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "awesome . that sounds very understandable . i think it will go just fine with my living room though ! how much for it ? i was trying to pay only around <price>_0.0 . i could drive by your place and pick it up if you want .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i can do <price>_0.8 <price>_0.8 cash pick up and paperwork but i d expect the remainder of bmw s factory warranty to be transferred too . can we call that a deal ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i have to provide pickup and make the covers there s no way i could go anywhere near that high . i could see <price>_-0.3 that s definitely what i d like to pay .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yeah that s why i am interested in this apartment . i do not think i can make the open house but i really want an apartment in this area . will you accept a bid around <price>_0.7 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "awesome ! i m pretty good with installing stereos if i skip the installation is there any chance i could get a lower deal on these ? somewhere around <price>_-0.8 <price>_-0.8 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "the car looks in good shape . but i think if i keep shopping around i can find it for around <price>_-0.1 how close can you get to that price ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "awesome ! i was trying to only spend around <price>_0.7 could you meet me at that price ? i will come by and pick it up from your place with cash tonight if so .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "wow okay cool well i m really interested but i think i can only come up with about <price>_-0.1 is there any way you can come down on the price at all ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "since there is no picture of the chest i have to go on your word . i d be disappointed if it was in worse shape than you described after driving down to see it . if you can drop the price to <price>_0.0 i ll purchase it no matter the condition .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "that would be helpful for sure . would you be willing to take <price>_0.2 for it ? it s for my teenage daughter and that s how much she saved up to buy a desk .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "i totally am except it s a bit old and bad looking . nobody really wants to ride or use that . i m thinking it s more around <price>_-1.7 as a novelty item .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "ok that all sounds really good . but for those amenities and the location i m told the rent really should be closer to the <price>_-2.0 range so i m wondering what i m missing that is making the rate so high even with the small <price>_-2.0 discount . . .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "yes that s why i want to get one . i hear it makes working out a lot more efficient . i m looking to spend around <price>_0.0 whats the lowest you can sell me one for today ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "buyer",
+            "turn": "hmm <price>_-0.0 seems a bit steep . i was hoping to find a 2 bedroom closer to the <price>_-0.0 range per month if the unit doesn t include utilities . do you at least pay for water sewer and trash removal ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        }
+    ],
+    "14": [
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<accept>",
+            "dialog_act": [
+                "<accept>"
+            ]
+        }
+    ],
+    "15": [
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<offer>",
+            "dialog_act": [
+                "<offer>"
+            ]
+        }
+    ],
+    "16": [
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<quit>",
+            "dialog_act": [
+                "<quit>"
+            ]
+        }
+    ],
+    "17": [
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<reject>",
+            "dialog_act": [
+                "<reject>"
+            ]
+        }
+    ],
+    "18": [
+        {
+            "party": "seller",
+            "turn": "could you <price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i could lower it to <price>_0.5",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "ok i can agree to <price>_0.2",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "how about <price>_0.6",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "how about <price>_0.8 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "how about 2 <price>_0.6",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i think that s fair <price>_0.8 sounds good",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "could you do <price>_0.5",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can take <price>_0.2 and we have a deal",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can meet you at <price>_0.6",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can meet you at <price>_0.4",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay <price>_0.5 you want ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "how about <price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "how about <price>_0.2 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay i will <price>_0.2",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that sounds reasonable . <price>_0.6 it is",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "no can do <price>_0.7 is the best i could for you partner",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes <price>_0.4 ?",
+            "dialog_act": [
+                "insist"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<price>_0.4 and you pick it up",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i will like <price>_0.6 for it .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        }
+    ],
+    "19": [
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello",
+            "dialog_act": [
+                "unknown"
+            ]
+        }
+    ],
+    "20": [
+        {
+            "party": "seller",
+            "turn": "well i m asking for <price>_1.0 since its a <price>_1.0 gear bike in great condition and giant brand . but i ll negotiate a little bit .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i m selling it for <price>_1.0 .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i am selling it for <price>_1.0",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "ok i am sellig it for <price>_1.0",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i am im offering it for <price>_1.0 dollars",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<price>_1.0 is a little bit too low . could i get you to agree to <price>_1.0 for it ? it is worth <price>_1.0 but i am willing to take off <price>_1.0 .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "sure . i am selling it for <price>_1.0",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i am asking <price>_1.0 . for all 6 .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi . i am selling it for <price>_1.4 but if you can do a pickup i will do a special offer of <price>_1.4 !",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes it is available for pick up today . price is <price>_1.0 .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "perfect ! i m asking <price>_1.0 for the pair . it s a really great deal considering i paid <price>_1.0 for them originally . i just am moving and i can t take them with me",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "well i was asking <price>_1.0 for it but i could let you have it for <price>_1.0",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes i am listing it for <price>_1.0",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "there are no scratches . are you willing to pay the <price>_1.0 for them ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i have a firm asking price of <price>_1.0 cash only",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i m selling this for <price>_1.0 .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i think that is a little too low i am starting at <price>_1.0 dollars but will take <price>_1.0",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i could deliver . i would like <price>_1.0 for it .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hey so are you interested in my breaker ? the list price is <price>_1.0",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "oh yes it s a great vintage table thanks ! i m asking <price>_1.0 for it .",
+            "dialog_act": [
+                "init-price"
+            ]
+        }
+    ],
+    "21": [
+        {
+            "party": "seller",
+            "turn": "no defects i don t think i can take <price>_0.4 . what if i deliver it to you can you come up to <price>_0.4 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "mine is <price>_0.8 would you want to meet in the middle and do <price>_0.8 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "what about <price>_0.3 . <price>_0.3 ? i will even through in a free phone case for you ? are you willing to meet me there ?",
+            "dialog_act": [
+                "insist"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "could you go to <price>_0.8 . i am willing to deliver the hair to you .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "if you have all cash i will take <price>_-0.4 for it .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "<price>_0.8 is a bit low i would take <price>_0.8 for it . i would go a bit lower if you can come pick it up later today",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i think i can get a bit more than <price>_0.7 for it . but tell you what if you could come down today i could do <price>_0.7",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "its a pretty crappy sofa will you buy for <price>_-0.5 ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "if you could go up to <price>_0.4 i will deliver it to you tonight .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "the lowest i can go is <price>_-0.7 if you come pick it up for me .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "did you mean for the pair ? <price>_0.4 each would bring the cost up to <price>_0.4 ! i could go down to <price>_0.4 and i d be willing to deliver them to you for <price>_0.4 .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can take <price>_0.0 for it if you have cash and can pick it up today .",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "ok you pick up and load it for <price>_0.6",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "would you do <price>_0.4 and i can deliver it to you free of charge ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i m sorry i can t go that low . i can take <price>_0.3 off the price though . that would bring it down to <price>_0.3 if you can pick it up today .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can do <price>_1.0 if you pick it up from me or <price>_1.0 if i drop it off at your place . i m afraid i can t go any lower though as <price>_1.0 would be a little too low .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "if you pick up today <price>_0.3 would work .",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "1 <price>_0.9 would be outrageously low and i cannot accept that offer . can you come closer to <price>_0.9 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "if you are able to pick it up yourself then i would drop it to <price>_-0.4",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "ok well if you want to do <price>_0.6 i am ok with going down to there",
+            "dialog_act": [
+                "agree"
+            ]
+        }
+    ],
+    "22": [
+        {
+            "party": "seller",
+            "turn": "yup do you have pets ? if so we allow pets . in addition it s fairly pre furnished with appliances and is pretty close to a variety of local businesses . we also include utilities in the rent so you re getting a decent package deal . what s your budget ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes . i am aware and i do apologize for that inconvience . well its a charming antique wood chair . its has all the humble features . with beautiful carved details . this chair only needs a new cushion and some tlc",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes it does i can give it to you before you purchase so you can look it up or we can meet at the phone store and verify your choice . i actually only used it for a month while i was waiting to be able to get a new phone on my contract so it is brand new . it is in a new real tree otter box that i will include as well .",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes i sure can . i m selling a toyota prius with low miles . it s in excellent condition . the vehicle was used on the highway but not much just basically local . no just children no pets",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that s right . it s mine only and i ve owned for about a few months give or take so it s not in the worst condition at all . how much are we willing to negotiate ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i will have to ask the owner i am just the sales man . regardless the house is going fast ! i can offer you rent for <price>_1.0 a month . hold on the owner just told me that the place has been newly renovated and has all of those features !",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "thanks and it has been maintained . has no issue whatsoever . i am willing to come down a bit with the price . let me know that you are willing to offer ?",
+            "dialog_act": [
+                "vague-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "the car both interior and exterior is in excellent condition . only driven by me a neat freak and i can guarantee that you will feel like you just bought a brand new car . but i do understand your concern about the mileage and would be willing to take <price>_-2.0 off the listed price .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "well the easier question to answer would be what s not special about it ! it s in a great area with excellent schools and it comes with more ammenities than any other condo around here . have you lived in a condo before ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i m not interested in trades . i m selling the bike for <price>_1.0 . it is the a competition grade bike same as used by lance armstrong and it wasn t just the large amount of drugs that propelled him to all those victories .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "greaat ! let s make a deal then . the apartment is available and within walking distance to parks schools bus stops . new carpet haardwood floors high ceilings . large front and back yard . do you have any questions ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i just didn t take a picture of the other side for some reason but it is in excellent condition as it had always had the case and screen protector . it is not unlocked .",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi ! it s not everyday people sell tandem bikes and this is a great deal . very well cared for . it is definitely still available .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "they are approximately sq . ft . very reasonable for the area very reasonable indeed . we are fairly close to the hills too so they are much larger than you would find closer towards the water . let me ask before i give you an offer we are also adding a discount for those who have equal housing opportunity vouchers . do you have a voucher ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "it s in excellent condition like new it has been kept indoors and out of the weather so the original paint is still beautiful . i ve had it for the recent summer so only months i m moving so i have to let it go .",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "excellent excellent . so no voucher . no i am not kidding you gentle person . i understand it is not san francisco but this is sf style and an excellent move towards the city . we only have the finest residents . we do a full background check security . everything an upscale person as yourself would want . we will give you a <price>_-2.0 discount because of your fico score . plus you get <price>_-2.0 when you move in ! don t forget about that ! !",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "everything is listed on the listing . if you have any questions feel free to ask . the item is used only two times and has no scratches at all . its in a mint condition .",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "mm okay . what were you hoping to spend on the car ? i ve already priced it pretty low ball since i m hoping to get it out of my garage soon !",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "mm okay . what were you hoping to spend on the car ? i ve already priced it pretty low ball since i m hoping to get it out of my garage soon !",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "its a desk chair . giving it way at a ridiculous price of <price>_1.0 and still willing to negotiate . its just like new . buying it can save you a lot of money compared to buying a new one",
+            "dialog_act": [
+                "counter-price"
+            ]
+        }
+    ],
+    "23": [
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my zip bike ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello are you interested in purchasing the monitor ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello are you interested in my bike ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi there . are you interested in the bike i have for sale ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my bike ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my bike ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my apartment ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello there are you interested in my scanner ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi you interested in the bike ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my car ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my car ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi . i see you interested in my studio ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i m good how about yourself ? are you interested in my vette ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello are you interested in my antique dresser ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello ! are you interested in the bike i have for sale ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi are you interested in my living space ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi . are you interested in my home ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello do you have interest in my car for sale ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello are you interested in purchasing the car ?",
+            "dialog_act": [
+                "intro"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hello are you interested in the farm table ?",
+            "dialog_act": [
+                "intro"
+            ]
+        }
+    ],
+    "24": [
+        {
+            "party": "seller",
+            "turn": "ok that will work thank you",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "awesome i appreciate that thanks !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that sounds great thank you",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that works thanks .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that sounds good . deal .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "perfect we have a deal",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay that works fine too ! we got a deal then",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "sounds good !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that is ok . i understand ! thanks for your interest !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay you ahve yourself a deal .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "agreed then ! check the directions i think it says you can",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "deal sounds good my friend .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "we have a deal ! thanks .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "great we have a deal !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yep i m good with that .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "ok sounds good !",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay . deal",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "you know that does sound good . deal .",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "sounds great .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yea for sure ! thank you !",
+            "dialog_act": [
+                "unknown"
+            ]
+        }
+    ],
+    "25": [
+        {
+            "party": "seller",
+            "turn": "that sounds good to me . i am willing to lower it ten dollars . would you like it delivered as well ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "well if you are taking them all i can lower the price a bit but these are normally a piece . would . work for you ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "we can make a deal . you are interested in the usb cable ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay if you re willing to show up with i think we ll be able to make a deal .",
+            "dialog_act": [
+                "agree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i could deliver it to you today if you paid that .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "well everything is listed on the listing unless you have any questions for me ? i will be happy to answer them",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "well i am willing to accept that amount since i wanna get ride of it . you will have to come pick it up after friday because that s when i am available .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "the unit comes with all appliances . if you were to come in today to sign the month lease before close i am willing to waive the entire deposit for you ! this is a deal you really can pass up !",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i ll do if you pick it up but i can have it next day delivered for as low as",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "if you can arrange to pick it up so there isn t any shipping associated with it i can agree to that .",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "september to august i could make that work . will it be just for yourself ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "nope it s real wood just like the title says . i ll even throw in delivery if you can take it today .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "it s in great shape ! when are you able to come look ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i am willing to lower it to that . can you pick it up as well ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "glad you like it ! listen if you like this apartment i would like to work it out with you to rent immediately",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "actually i would . if you want to send that through i ll accept it . good doing business with you partner .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes we can meet there with no problems . i could accept that offer also . can be there whenever you want to meet today .",
+            "dialog_act": [
+                "disagree"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "we can offer one free month if you were to move in within the next days . would that help your budget at all ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can yes but it needs to be picked up later today . is that ok ? we move out tomorrow .",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hi i have such a great bike for you today what is your budget looking like ?",
+            "dialog_act": [
+                "intro"
+            ]
+        }
+    ],
+    "26": [
+        {
+            "party": "seller",
+            "turn": "ok well it is great condition . do you have any questions ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes is there anything specific you are looking for in a car ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "good are you contacting me about the circuit breakers ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "woops actually its an apartment i guess i only posted picture of a sink",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "the scratches are extremely minor but what is your offer ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "nice . what is your year and model for the suv ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "thanks it is really nice . interested ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "thanks . what about baths ? does it matter much ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes ! i would estimate this bike is perfect for anyone to",
+            "dialog_act": [
+                "inform"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "good ! you have any questions ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "awesome do you have any questions ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "okay do you have any questions about it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes it s still available . did you have any questions about it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "what is the price you would be interested in ?",
+            "dialog_act": [
+                "unknown"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "good thanks . and you ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "it s a beautiful home how much of a budget are you on ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes it is still available is there any questions that you have about it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "what size would you like it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "how old is it ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "what issues do you have ?",
+            "dialog_act": [
+                "inquiry"
+            ]
+        }
+    ],
+    "27": [
+        {
+            "party": "seller",
+            "turn": "the <price>_1.0 was already discounted due to not being in the best shape so i would be losing a lot of money going that low . would you be willing to pay <price>_1.0 ? i will drop it off for you",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "it s a new iphone 6 you wont find one for <price>_0.8 . <price>_0.8 is the lowest i ll go i m sorry . i can deliver it to your place if that makes it any better price wise .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i can part ways with it for about <price>_0.3 if you can come and pick it up from my place and everything . does that sound like a fair deal ? the original asking price is <price>_0.3 higher than that .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i built the bike myself and cannot let it go for that much . could you do <price>_0.5 ? otherwise ill have to keep it and give it to my nephew for his birthday !",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "yes of course . i m afraid the lowest i can go it <price>_0.4 though as i m looking to spend the money on something . i hope this is a reasonable price for you i know you will like the truck !",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that is far below my asking price i could not in good faith accept <price>_-0.6 i am sorry . i could perhaps go a bit lower but <price>_-0.6 just will not cut it . a bike like this is worth spending on a tub or two of white wall cleaner .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i would really like the full asking price of <price>_1.0 but can consider an offer if it is reasonable and if i know it is going to a good home .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "well i paid more than that for the two of them and they really do go very well together . i could go as low as <price>_0.4 i think considering you re a student .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "apple accessories like the pencil smart keyboard vintage case and i am sorry the warranty is actually till late <price>_0.7 but still you get a good deal here . let me at least get <price>_0.7 .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "its listed at <price>_1.0 but we might be able to work something out . what can you offer ? it needs to be reasonable however . and i assume you ve read up on the policies such as no pets allowed as well as no smoking .",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "the amenities in this apartment are top notch it was recently remodeled and has been well taken care of . tell you what i can do <price>_0.6 and i will throw in free monthly parking which is usually <price>_0.6 a month",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i guess it wouldn t work for us . we are looking for a land rover . so if i throw in snow tires will you consider the bmw for <price>_1.0 <price>_1.0 ?",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i could make by with <price>_0.2 but i can t get rid of them with that low of a price . i paid way too much for these pieces and i would experience substantial loss .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "ok just want to let you know it is new can come assembled or in the box . would <price>_0.9 work ?",
+            "dialog_act": [
+                "init-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "for the type of bike it is i m sorry but that s too low . how about <price>_0.7 ? this bike has many features and i just got it tuned recently . not even a scrap anywhere .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "no i m sorry that won t work the lowest i will go is <price>_0.8 you can give me <price>_0.8 today and make payments on the rest",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "the location of the apartment is a factor . also the landlord pays for water garbage sewage and hoa fees . so i feel you still are getting a good deal . but i can go down to <price>_-1.0 mo .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "hmm i see . well this apartment is in a nice area very near to emeryville bay street . west macarthur bart is only 8 <price>_1.0 blocks away . i am asking for <price>_1.0 but i can negotiate the price .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "i m really not interested in going lower than <price>_0.1 . i ll add a 2g sd card in the deal if you ll come up to <price>_0.1 .",
+            "dialog_act": [
+                "insist"
+            ]
+        },
+        {
+            "party": "seller",
+            "turn": "that s a lot lower than i hoped it would be . i want to sell it for <price>_0.9 because of how close it is to that of a brand new bike in terms of quality .",
+            "dialog_act": [
+                "counter-price"
+            ]
+        }
+    ]
+}
