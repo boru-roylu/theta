@@ -68,6 +68,7 @@ Please put all directories under the path `$NFS_PARENT_DIR` you defined in the h
 # NFS_PARENT_DIR will look like this.
 .
 ├── assignments
+├── data
 ├── exp
 ├── pretrained_models
 └── state_assignments
