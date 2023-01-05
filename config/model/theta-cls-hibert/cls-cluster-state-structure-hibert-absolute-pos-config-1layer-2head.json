@@ -1,0 +1,33 @@
+{
+  "_name_or_path": "bert-base-uncased",
+  "architectures": [
+    "BertModel"
+  ],
+  "attention_probs_dropout_prob": 0.0,
+  "classifier_dropout": null,
+  "gradient_checkpointing": false,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.0,
+  "hidden_size": 300, 
+  "emb_hidden_size": 300,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "model_type": "bert",
+  "num_attention_heads": 2,
+  "num_hidden_layers": 1,
+  "pad_token_id": 0,
+  "position_embedding_type": "absolute",
+  "add_absolute_position_embeddings": true,
+  "torch_dtype": "float32",
+  "transformers_version": "4.21.2",
+  "type_vocab_size": 2,
+  "use_cache": true,
+  "vocab_size": 30522,
+  "add_ctx_pooled_output_to_tokens": false,
+  "use_cluster_sequence_classifier": true,
+  "use_state_sequence_classifier": true,
+  "num_clusters": 240,
+  "num_states": 30
+}
