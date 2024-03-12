@@ -53,7 +53,7 @@ docker run -u root -it --gpus all dapy/theta:v1.0 /bin/bash
 ```
 
 #### Option 2: Run THETA using Apptainer image.
-- Download image at [Apptainer image app.sif](https://roylu-opensource.s3.us-west-2.amazonaws.com/theta/apptainer_image/app.sif)
+- Download Apptainer image at [https://roylu-opensource.s3.us-west-2.amazonaws.com/theta/apptainer_image/app.sif](https://roylu-opensource.s3.us-west-2.amazonaws.com/theta/apptainer_image/app.sif)
 - You should be able to run the image on Singularity as well.
 
 ```bash
