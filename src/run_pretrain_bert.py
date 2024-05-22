@@ -18,7 +18,6 @@ logger.setLevel(logging.INFO)
 datasets.logging.set_verbosity(datasets.logging.INFO)
 
 NFS_DIR = decouple.config('NFS_PARENT_DIR')
-SCRATCH_DIR = decouple.config('SCRATCH_DIR')
 
 # Gets training arguments.
 parser = tfs.HfArgumentParser((training_args.TrainingArguments))
@@ -35,7 +34,7 @@ tokenizer = tfs.AutoTokenizer.from_pretrained(train_args.model_path)
 
 task_name = train_args.task_name 
 data_config = utils.read_yaml(train_args.data_config_path)
-dataset_dir = data_config['path']['dataset_dir'].format(scratch_dir=SCRATCH_DIR)
+dataset_dir = data_config['path']['dataset_dir'].format(nfs_dir=NFS_DIR)
 
 local_ds_dir = utils.get_dataset_dir_map(
     task_name, dataset_dir, train_args.model_path, train_args.debug_mode)
